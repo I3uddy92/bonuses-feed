@@ -16,7 +16,9 @@ import requests
 from bs4 import BeautifulSoup
 
 EVENTS_URL = "https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.json"
-OUTPUT_PATH = Path(__file__).parent / "bonuses.json"
+BONUSES_PATH = Path(__file__).parent / "bonuses.json"
+SPAWNS_PATH = Path(__file__).parent / "spawns.json"
+EFFECTS_PATH = Path(__file__).parent / "effects.json"
 LOOKAHEAD_DAYS = 14
 REQUEST_TIMEOUT = 20
 USER_AGENT = (
@@ -205,8 +207,24 @@ def try_parse_date_range(text, default_year):
 
 # --- HTML section parsing ----------------------------------------------------
 
+def _is_section_header(tag):
+    """Real top-level sections use <h2 class="event-section-header ...">; some
+    pages (e.g. the Spawns section) nest plain, class-less <h2> sub-headers
+    (date ranges like "July 21 – July 23") that must NOT end the section.
+    "Major Milestone Bonuses" is inconsistent across pages (sometimes has the
+    section class, sometimes not) but always has its own dedicated parser, so
+    it must always be treated as a boundary regardless of class."""
+    if tag.name != "h2":
+        return False
+    if "event-section-header" in (tag.get("class") or []):
+        return True
+    ident = (tag.get("id") or "") + " " + tag.get_text(" ", strip=True)
+    return "milestone" in ident.lower()
+
+
 def _iter_section(h2):
-    """Yield direct children of h2's parent, starting after h2, until the next h2."""
+    """Yield direct children of h2's parent, starting after h2, until the next
+    real section header (see _is_section_header)."""
     parent = h2.parent
     started = False
     for child in parent.children:
@@ -217,7 +235,7 @@ def _iter_section(h2):
             continue
         if not started:
             continue
-        if child.name == "h2":
+        if _is_section_header(child):
             break
         yield child
 
@@ -306,6 +324,61 @@ def parse_milestone_bonuses(soup, event):
     return results
 
 
+def parse_spawns(soup, event):
+    """The "Spawns" section (event-themed wild encounters) is only rendered as
+    HTML, not exposed via ScrapedDuck. Sub-headers for date phases and "Lure
+    Module Encounters" are plain (non-section) <h2>s handled by _iter_section;
+    all Pokémon across them are merged into one per-event list since exact
+    per-phase timing isn't needed for the dashboard's use case."""
+    h2 = soup.find("h2", id="spawns")
+    if h2 is None:
+        h2 = soup.find(lambda t: t.name == "h2" and t.get_text(strip=True).lower() == "spawns")
+    if h2 is None:
+        return []
+
+    seen = set()
+    results = []
+    for child in _iter_section(h2):
+        if child.name != "ul" or "pkmn-list-flex" not in (child.get("class") or []):
+            continue
+        for li in child.find_all("li", class_="pkmn-list-item"):
+            name_div = li.find("div", class_="pkmn-name")
+            name = name_div.get_text(strip=True) if name_div else None
+            if not name or name in seen:
+                continue
+            seen.add(name)
+            img = li.find("div", class_="pkmn-list-img")
+            img = img.find("img") if img else li.find("img")
+            image = urljoin(event["link"], img["src"]) if img and img.get("src") else None
+            results.append({
+                "name": name,
+                "image": image,
+                "canBeShiny": li.find("img", class_="shiny-icon") is not None,
+            })
+    return results
+
+
+def parse_featured_attacks(soup, event):
+    """"Featured Attacks" (e.g. evolution-exclusive Charged Attacks, Community
+    Day legacy moves) are freeform HTML; move-name headings are told apart
+    from their description paragraph by the lack of a period (heuristic, but
+    matches every page checked)."""
+    h2 = soup.find("h2", id="moves")
+    if h2 is None:
+        h2 = soup.find(lambda t: t.name == "h2" and t.get_text(strip=True).lower() in ("moves", "featured attacks"))
+    if h2 is None:
+        return []
+
+    results = []
+    for child in _iter_section(h2):
+        if child.name != "p":
+            continue
+        text = child.get_text(" ", strip=True)
+        if text and "." not in text and len(text) <= 40:
+            results.append(text)
+    return results
+
+
 def mark_rotating(bonuses):
     groups = defaultdict(list)
     for b in bonuses:
@@ -324,35 +397,51 @@ def mark_rotating(bonuses):
 def scrape_event(event):
     html = fetch_html(event["link"])
     soup = BeautifulSoup(html, "html.parser")
+    slug = event["link"].rstrip("/").rsplit("/", 1)[-1]
 
     bonuses = parse_standard_bonuses(soup, event) + parse_milestone_bonuses(soup, event)
-    if not bonuses:
-        return []
-    bonuses = combine_gift_bonuses(bonuses)
-    mark_rotating(bonuses)
+    bonus_out = []
+    if bonuses:
+        bonuses = combine_gift_bonuses(bonuses)
+        mark_rotating(bonuses)
+        for b in bonuses:
+            base_text, deluxe = strip_prefix(b["text_en"], b["deluxe"])
+            text = translate(base_text).rstrip("*").strip()
+            suffix_parts = []
+            if b["rank"]:
+                suffix_parts.append(f"ab Rang {b['rank']}")
+            if deluxe:
+                suffix_parts.append("Deluxe")
+            if suffix_parts:
+                text += " (" + ", ".join(suffix_parts) + ")"
+            bonus_out.append({
+                "text": text,
+                "image": b["image"],
+                "eventName": event["name"],
+                "eventSlug": slug,
+                "start": b["start"].strftime("%Y-%m-%dT%H:%M:%S"),
+                "end": b["end"].strftime("%Y-%m-%dT%H:%M:%S"),
+                "rotating": b["rotating"],
+            })
 
-    slug = event["link"].rstrip("/").rsplit("/", 1)[-1]
-    out = []
-    for b in bonuses:
-        base_text, deluxe = strip_prefix(b["text_en"], b["deluxe"])
-        text = translate(base_text).rstrip("*").strip()
-        suffix_parts = []
-        if b["rank"]:
-            suffix_parts.append(f"ab Rang {b['rank']}")
-        if deluxe:
-            suffix_parts.append("Deluxe")
-        if suffix_parts:
-            text += " (" + ", ".join(suffix_parts) + ")"
-        out.append({
-            "text": text,
-            "image": b["image"],
-            "eventName": event["name"],
-            "eventSlug": slug,
-            "start": b["start"].strftime("%Y-%m-%dT%H:%M:%S"),
-            "end": b["end"].strftime("%Y-%m-%dT%H:%M:%S"),
-            "rotating": b["rotating"],
-        })
-    return out
+    common = {
+        "eventName": event["name"],
+        "eventSlug": slug,
+        "start": parse_iso(event["start"]).strftime("%Y-%m-%dT%H:%M:%S"),
+        "end": parse_iso(event["end"]).strftime("%Y-%m-%dT%H:%M:%S"),
+    }
+    spawn_out = [{**s, **common} for s in parse_spawns(soup, event)]
+    effect_out = [{"text": t, **common} for t in parse_featured_attacks(soup, event)]
+
+    return bonus_out, spawn_out, effect_out
+
+
+def _write_if_nonempty(path, items, label):
+    if not items:
+        print(f"No {label} scraped this run; leaving existing {path.name} untouched.", file=sys.stderr)
+        return
+    path.write_text(json.dumps(items, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Wrote {len(items)} {label} to {path}")
 
 
 def main():
@@ -360,26 +449,22 @@ def main():
     candidates = relevant_events(events)
     print(f"{len(candidates)} relevant event(s) out of {len(events)}", file=sys.stderr)
 
-    all_bonuses = []
+    all_bonuses, all_spawns, all_effects = [], [], []
     for event in candidates:
         try:
-            bonuses = scrape_event(event)
+            bonuses, spawns, effects = scrape_event(event)
         except Exception as exc:  # noqa: BLE001 - one bad event must not abort the run
             print(f"WARN: skipping {event.get('name')!r} ({event.get('link')}): {exc}", file=sys.stderr)
             continue
-        if bonuses:
-            print(f"  {event['name']}: {len(bonuses)} bonus(es)", file=sys.stderr)
+        if bonuses or spawns or effects:
+            print(f"  {event['name']}: {len(bonuses)} bonus(es), {len(spawns)} spawn(s), {len(effects)} effect(s)", file=sys.stderr)
         all_bonuses.extend(bonuses)
+        all_spawns.extend(spawns)
+        all_effects.extend(effects)
 
-    if not all_bonuses:
-        print("No bonuses scraped this run; leaving existing bonuses.json untouched.", file=sys.stderr)
-        return
-
-    OUTPUT_PATH.write_text(
-        json.dumps(all_bonuses, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
-    print(f"Wrote {len(all_bonuses)} bonus(es) to {OUTPUT_PATH}")
+    _write_if_nonempty(BONUSES_PATH, all_bonuses, "bonus(es)")
+    _write_if_nonempty(SPAWNS_PATH, all_spawns, "spawn(s)")
+    _write_if_nonempty(EFFECTS_PATH, all_effects, "effect(s)")
 
 
 if __name__ == "__main__":

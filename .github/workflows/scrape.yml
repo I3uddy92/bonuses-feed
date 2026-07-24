@@ -1,4 +1,4 @@
-name: Scrape bonuses
+name: Scrape bonuses, spawns and effects
 
 on:
   schedule:
@@ -22,15 +22,15 @@ jobs:
 
       - run: python scrape.py
 
-      - name: Commit bonuses.json if changed
+      - name: Commit changed feeds
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- bonuses.json; then
+          if git diff --quiet -- bonuses.json spawns.json effects.json; then
             echo "No changes."
           else
-            git add bonuses.json
-            git commit -m "Update bonuses.json"
+            git add bonuses.json spawns.json effects.json
+            git commit -m "Update bonuses/spawns/effects feeds"
             git push
           fi
 

@@ -36,6 +36,33 @@
     "rotating": false
   },
   {
+    "text": "Additional 5,000 XP from completed raids",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
+    "eventName": "GO Fest 2026 Sunday Raid Makeup",
+    "eventSlug": "pokemon-go-fest-2026-global-sunday-raid-makeup",
+    "start": "2026-07-26T10:00:00",
+    "end": "2026-07-26T19:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Additional 3 Candy from completing 5-star and higher raids",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "GO Fest 2026 Sunday Raid Makeup",
+    "eventSlug": "pokemon-go-fest-2026-global-sunday-raid-makeup",
+    "start": "2026-07-26T10:00:00",
+    "end": "2026-07-26T19:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Additional 1 Candy XL from completing 5-star and higher raids",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
+    "eventName": "GO Fest 2026 Sunday Raid Makeup",
+    "eventSlug": "pokemon-go-fest-2026-global-sunday-raid-makeup",
+    "start": "2026-07-26T10:00:00",
+    "end": "2026-07-26T19:00:00",
+    "rotating": false
+  },
+  {
     "text": "First partner Pokémon may have a team-specific Special Background!",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
     "eventName": "Ultra Unlock: 10th Anniversary Edition",
@@ -173,6 +200,15 @@
   {
     "text": "1/4 Adventuring distance to receive Max Particles",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Gigantamax Rillaboom Max Battle Day",
+    "eventSlug": "gigantamax-rillaboom-max-battle-day-2026",
+    "start": "2026-08-01T14:00:00",
+    "end": "2026-08-01T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× XP from Max Battles",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
     "eventName": "Gigantamax Rillaboom Max Battle Day",
     "eventSlug": "gigantamax-rillaboom-max-battle-day-2026",
     "start": "2026-08-01T14:00:00",

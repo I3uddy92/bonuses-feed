@@ -45,7 +45,7 @@
     "rotating": false
   },
   {
-    "text": "6× XP fürs Fangen von Pokémon",
+    "text": "6× Fang-XP",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
     "eventName": "Ultra Unlock: 10th Anniversary Edition",
     "eventSlug": "ultra-unlock-10th-anniversary-edition",
@@ -54,7 +54,7 @@
     "rotating": true
   },
   {
-    "text": "8× XP fürs Fangen von Pokémon",
+    "text": "8× Fang-XP",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
     "eventName": "Ultra Unlock: 10th Anniversary Edition",
     "eventSlug": "ultra-unlock-10th-anniversary-edition",
@@ -63,7 +63,7 @@
     "rotating": true
   },
   {
-    "text": "10× XP fürs Fangen von Pokémon",
+    "text": "10× Fang-XP",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
     "eventName": "Ultra Unlock: 10th Anniversary Edition",
     "eventSlug": "ultra-unlock-10th-anniversary-edition",
@@ -72,7 +72,7 @@
     "rotating": true
   },
   {
-    "text": "2× Bonbons fürs Fangen von Pokémon (GO Pass ab Rang 10)",
+    "text": "2× Fang-Bonbons (ab Rang 10)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
     "eventName": "Ultra Unlock: 10th Anniversary Edition",
     "eventSlug": "ultra-unlock-10th-anniversary-edition",
@@ -81,7 +81,7 @@
     "rotating": false
   },
   {
-    "text": "GO Pass Deluxe: 3× Bonbons fürs Fangen von Pokémon (GO Pass ab Rang 10)",
+    "text": "3× Fang-Bonbons (ab Rang 10, Deluxe)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
     "eventName": "Ultra Unlock: 10th Anniversary Edition",
     "eventSlug": "ultra-unlock-10th-anniversary-edition",
@@ -90,7 +90,7 @@
     "rotating": false
   },
   {
-    "text": "Increased chance of receiving Candy XL from catching Pokémon (GO Pass ab Rang 20)",
+    "text": "Erhöhte Bonbon-XL-Chance (Fang) (ab Rang 20)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
     "eventName": "Ultra Unlock: 10th Anniversary Edition",
     "eventSlug": "ultra-unlock-10th-anniversary-edition",
@@ -180,7 +180,7 @@
     "rotating": false
   },
   {
-    "text": "Ein zusätzliches Bonbon beim Tauschen von Pokémon (GO Pass ab Rang 1)",
+    "text": "+1 Bonbon beim Tauschen (ab Rang 1)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
     "eventName": "GO Pass: July",
     "eventSlug": "go-pass-july-2026",
@@ -189,7 +189,7 @@
     "rotating": false
   },
   {
-    "text": "Trainer ab Level 31 erhalten beim Tauschen von Pokémon garantiert ein Bonbon XL (GO Pass ab Rang 1)",
+    "text": "Garantiertes Bonbon XL ab Level 31 (Tausch) (ab Rang 1)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
     "eventName": "GO Pass: July",
     "eventSlug": "go-pass-july-2026",
@@ -198,34 +198,7 @@
     "rotating": false
   },
   {
-    "text": "Bis zu 40 Geschenke pro Tag öffnen (GO Pass ab Rang 25)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
-    "eventName": "GO Pass: July",
-    "eventSlug": "go-pass-july-2026",
-    "start": "2026-07-07T10:00:00",
-    "end": "2026-08-04T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Bis zu 125 Geschenke pro Tag von PokéStops und Arena-Fotoscheiben erhalten (GO Pass ab Rang 25)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
-    "eventName": "GO Pass: July",
-    "eventSlug": "go-pass-july-2026",
-    "start": "2026-07-07T10:00:00",
-    "end": "2026-08-04T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "10 mehr Geschenke in der Item-Tasche tragen (GO Pass ab Rang 25)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
-    "eventName": "GO Pass: July",
-    "eventSlug": "go-pass-july-2026",
-    "start": "2026-07-07T10:00:00",
-    "end": "2026-08-04T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "2× Dauer des täglichen Abenteuer-Rauchs (GO Pass ab Rang 50)",
+    "text": "2× Abenteuer-Rauch-Dauer (ab Rang 50)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/dailyincense.png",
     "eventName": "GO Pass: July",
     "eventSlug": "go-pass-july-2026",
@@ -234,7 +207,7 @@
     "rotating": false
   },
   {
-    "text": "Erhöhte XP und Sternenstaub beim Ausbrüten von Eiern (GO Pass ab Rang 75)",
+    "text": "Erhöhte Schlüpf-XP/-Staub (ab Rang 75)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust2xhatch.png",
     "eventName": "GO Pass: July",
     "eventSlug": "go-pass-july-2026",
@@ -243,7 +216,7 @@
     "rotating": false
   },
   {
-    "text": "Bis zu 50 Geschenke pro Tag öffnen (GO Pass ab Rang 25) – Deluxe",
+    "text": "Geschenke: 40/Tag öffnen, +10 Taschenplätze (ab Rang 25)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
     "eventName": "GO Pass: July",
     "eventSlug": "go-pass-july-2026",
@@ -252,7 +225,7 @@
     "rotating": false
   },
   {
-    "text": "Bis zu 150 Geschenke pro Tag von PokéStops und Arena-Fotoscheiben erhalten (GO Pass ab Rang 25) – Deluxe",
+    "text": "Geschenke: 50/Tag öffnen, +20 Taschenplätze (ab Rang 25, Deluxe)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
     "eventName": "GO Pass: July",
     "eventSlug": "go-pass-july-2026",
@@ -261,16 +234,7 @@
     "rotating": false
   },
   {
-    "text": "20 mehr Geschenke in der Item-Tasche tragen (GO Pass ab Rang 25) – Deluxe",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
-    "eventName": "GO Pass: July",
-    "eventSlug": "go-pass-july-2026",
-    "start": "2026-07-07T10:00:00",
-    "end": "2026-08-04T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "2× XP for spinning a PokéStop (GO Pass ab Rang 10)",
+    "text": "2× PokéStop-XP (ab Rang 10)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
     "eventName": "Summer Marathon: Arctic Embers",
     "eventSlug": "summer-marathon-2026",
@@ -279,7 +243,7 @@
     "rotating": false
   },
   {
-    "text": "GO Pass Deluxe: 3× XP for spinning a PokéStop (GO Pass ab Rang 10)",
+    "text": "3× PokéStop-XP (ab Rang 10, Deluxe)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
     "eventName": "Summer Marathon: Arctic Embers",
     "eventSlug": "summer-marathon-2026",
@@ -288,7 +252,7 @@
     "rotating": false
   },
   {
-    "text": "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period (GO Pass ab Rang 20)",
+    "text": "1/2 Ei-Distanz (Inkubator) (ab Rang 20)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/eggdistance.png",
     "eventName": "Summer Marathon: Arctic Embers",
     "eventSlug": "summer-marathon-2026",
@@ -297,7 +261,7 @@
     "rotating": false
   },
   {
-    "text": "GO Pass Deluxe: 1/4 Egg Hatch Distance when Eggs are placed in an Incubator during the event period (GO Pass ab Rang 20)",
+    "text": "1/4 Ei-Distanz (Inkubator) (ab Rang 20, Deluxe)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/eggdistance.png",
     "eventName": "Summer Marathon: Arctic Embers",
     "eventSlug": "summer-marathon-2026",
@@ -306,7 +270,7 @@
     "rotating": false
   },
   {
-    "text": "Ein zusätzliches Bonbon beim Tauschen von Pokémon (GO Pass ab Rang 1)",
+    "text": "+1 Bonbon beim Tauschen (ab Rang 1)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
     "eventName": "Forever Forward",
     "eventSlug": "season-23-forever-forward",
@@ -315,7 +279,7 @@
     "rotating": false
   },
   {
-    "text": "Increased limits on opening, receiving from PokéStop and Gym Photo Discs, and storing Gifts (GO Pass ab Rang 25)",
+    "text": "Erhöhte Geschenke-Limits (ab Rang 25)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
     "eventName": "Forever Forward",
     "eventSlug": "season-23-forever-forward",
@@ -324,7 +288,7 @@
     "rotating": false
   },
   {
-    "text": "2× Dauer des täglichen Abenteuer-Rauchs (GO Pass ab Rang 50)",
+    "text": "2× Abenteuer-Rauch-Dauer (ab Rang 50)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/dailyincense.png",
     "eventName": "Forever Forward",
     "eventSlug": "season-23-forever-forward",
@@ -333,7 +297,7 @@
     "rotating": false
   },
   {
-    "text": "Erhöhte XP und Sternenstaub beim Ausbrüten von Eiern (GO Pass ab Rang 75)",
+    "text": "Erhöhte Schlüpf-XP/-Staub (ab Rang 75)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust2xhatch.png",
     "eventName": "Forever Forward",
     "eventSlug": "season-23-forever-forward",
@@ -342,7 +306,7 @@
     "rotating": false
   },
   {
-    "text": "Ein zusätzliches Bonbon beim Tauschen von Pokémon (GO Pass ab Rang 1)",
+    "text": "+1 Bonbon beim Tauschen (ab Rang 1)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
     "eventName": "GO Pass: August",
     "eventSlug": "go-pass-august-2026",
@@ -351,7 +315,7 @@
     "rotating": false
   },
   {
-    "text": "Trainer ab Level 31 erhalten beim Tauschen von Pokémon garantiert ein Bonbon XL (GO Pass ab Rang 1)",
+    "text": "Garantiertes Bonbon XL ab Level 31 (Tausch) (ab Rang 1)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
     "eventName": "GO Pass: August",
     "eventSlug": "go-pass-august-2026",
@@ -360,34 +324,7 @@
     "rotating": false
   },
   {
-    "text": "Bis zu 40 Geschenke pro Tag öffnen (GO Pass ab Rang 25)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
-    "eventName": "GO Pass: August",
-    "eventSlug": "go-pass-august-2026",
-    "start": "2026-08-04T10:00:00",
-    "end": "2026-09-08T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Bis zu 125 Geschenke pro Tag von PokéStops und Arena-Fotoscheiben erhalten (GO Pass ab Rang 25)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
-    "eventName": "GO Pass: August",
-    "eventSlug": "go-pass-august-2026",
-    "start": "2026-08-04T10:00:00",
-    "end": "2026-09-08T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "10 mehr Geschenke in der Item-Tasche tragen (GO Pass ab Rang 25)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
-    "eventName": "GO Pass: August",
-    "eventSlug": "go-pass-august-2026",
-    "start": "2026-08-04T10:00:00",
-    "end": "2026-09-08T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "2× Dauer des täglichen Abenteuer-Rauchs (GO Pass ab Rang 50)",
+    "text": "2× Abenteuer-Rauch-Dauer (ab Rang 50)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/dailyincense.png",
     "eventName": "GO Pass: August",
     "eventSlug": "go-pass-august-2026",
@@ -396,7 +333,7 @@
     "rotating": false
   },
   {
-    "text": "Erhöhte XP und Sternenstaub beim Ausbrüten von Eiern (GO Pass ab Rang 75)",
+    "text": "Erhöhte Schlüpf-XP/-Staub (ab Rang 75)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust2xhatch.png",
     "eventName": "GO Pass: August",
     "eventSlug": "go-pass-august-2026",
@@ -405,7 +342,7 @@
     "rotating": false
   },
   {
-    "text": "One single-use Incubator awarded for your first PokéStop or Gym spin of the day (GO Pass ab Rang 1) – Deluxe",
+    "text": "1 Einweg-Inkubator (erster Spin/Tag) (ab Rang 1, Deluxe)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/paidincubator.png",
     "eventName": "GO Pass: August",
     "eventSlug": "go-pass-august-2026",
@@ -414,7 +351,7 @@
     "rotating": false
   },
   {
-    "text": "Bis zu 50 Geschenke pro Tag öffnen (GO Pass ab Rang 25) – Deluxe",
+    "text": "Geschenke: 40/Tag öffnen, +10 Taschenplätze (ab Rang 25)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
     "eventName": "GO Pass: August",
     "eventSlug": "go-pass-august-2026",
@@ -423,16 +360,7 @@
     "rotating": false
   },
   {
-    "text": "Bis zu 150 Geschenke pro Tag von PokéStops und Arena-Fotoscheiben erhalten (GO Pass ab Rang 25) – Deluxe",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
-    "eventName": "GO Pass: August",
-    "eventSlug": "go-pass-august-2026",
-    "start": "2026-08-04T10:00:00",
-    "end": "2026-09-08T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "20 mehr Geschenke in der Item-Tasche tragen (GO Pass ab Rang 25) – Deluxe",
+    "text": "Geschenke: 50/Tag öffnen, +20 Taschenplätze (ab Rang 25, Deluxe)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
     "eventName": "GO Pass: August",
     "eventSlug": "go-pass-august-2026",

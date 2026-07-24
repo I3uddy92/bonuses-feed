@@ -25,70 +25,106 @@ USER_AGENT = (
 )
 
 # --- German translations for recurring bonus phrasings -----------------------
-# Regex is matched against the trimmed English bonus text. Anything that
-# doesn't match a rule is kept in English rather than risk a bad translation.
+# Regex is matched against the trimmed English bonus text (short, abbreviated
+# output by design). Anything that doesn't match a rule is kept in English
+# rather than risk a bad translation.
 TRANSLATIONS = [
-    (re.compile(r"^(\d+)\s*[x×]\s*XP for catching Pok[ée]mon\.?$", re.I),
-        "{0}× XP fürs Fangen von Pokémon"),
-    (re.compile(r"^(\d+)\s*[x×]\s*Stardust for catching Pok[ée]mon\.?$", re.I),
-        "{0}× Sternenstaub fürs Fangen von Pokémon"),
-    (re.compile(r"^(\d+)\s*[x×]\s*Candy for catching Pok[ée]mon\.?$", re.I),
-        "{0}× Bonbons fürs Fangen von Pokémon"),
-    (re.compile(r"^(\d+)\s*[x×]\s*Catch Candy$", re.I),
-        "{0}× Bonbons fürs Fangen"),
-    (re.compile(r"^(\d+)\s*[x×]\s*Catch Stardust$", re.I),
-        "{0}× Sternenstaub fürs Fangen"),
-    (re.compile(r"^(\d+)\s*[x×]\s*XP for hatching Eggs\.?$", re.I),
-        "{0}× XP fürs Ausbrüten von Eiern"),
-    (re.compile(r"^(\d+)\s*[x×]\s*Stardust for hatching Eggs\.?$", re.I),
-        "{0}× Sternenstaub fürs Ausbrüten von Eiern"),
-    (re.compile(r"^(\d+)\s*[x×]\s*Candy for hatching Eggs\.?$", re.I),
-        "{0}× Bonbons fürs Ausbrüten von Eiern"),
-    (re.compile(r"^Eggs? require 1/(\d+) the distance to hatch\.?$", re.I),
-        "Eier benötigen 1/{0} der Distanz zum Schlüpfen"),
-    (re.compile(r"^(\d+)\s*[x×]\s*Daily Adventure Incense duration\.?$", re.I),
-        "{0}× Dauer des täglichen Abenteuer-Rauchs"),
-    (re.compile(r"^(\d+)\s*[x×]\s*(?:duration for |Incense )?Incense duration\.?$", re.I),
-        "{0}× Rauch-Dauer"),
-    (re.compile(r"^(\d+)\s*[x×]\s*Lure Module duration\.?$", re.I),
-        "{0}× Lockmodul-Dauer"),
-    (re.compile(r"^Increased chance of encountering Shiny Pok[ée]mon\.?$", re.I),
-        "Erhöhte Chance auf schillernde (Shiny) Pokémon"),
-    (re.compile(r"^Increased Buddy [Cc]andy earn rate\.?$", re.I),
-        "Erhöhte Bonbon-Rate vom Buddy-Pokémon"),
-    (re.compile(r"^Increased XP and Stardust from hatching Eggs\.?$", re.I),
-        "Erhöhte XP und Sternenstaub beim Ausbrüten von Eiern"),
-    (re.compile(r"^Open up to (\d+) Gifts per day$", re.I),
-        "Bis zu {0} Geschenke pro Tag öffnen"),
-    (re.compile(r"^Receive up to (\d+) Gifts per day from spinning Pok[ée]Stop and Gym Photo Discs$", re.I),
-        "Bis zu {0} Geschenke pro Tag von PokéStops und Arena-Fotoscheiben erhalten"),
-    (re.compile(r"^Hold (?:up to )?(\d+) more Gifts? in your Item Bag$", re.I),
-        "{0} mehr Geschenke in der Item-Tasche tragen"),
-    (re.compile(r"^One additional Candy for trading Pok[ée]mon\.?$", re.I),
-        "Ein zusätzliches Bonbon beim Tauschen von Pokémon"),
+    (re.compile(r"^(\d+)\s*[x×]\s*XP for catching Pok[ée]mon\.?$", re.I), "{0}× Fang-XP"),
+    (re.compile(r"^(\d+)\s*[x×]\s*Stardust for catching Pok[ée]mon\.?$", re.I), "{0}× Fang-Sternenstaub"),
+    (re.compile(r"^(\d+)\s*[x×]\s*Candy for catching Pok[ée]mon\.?$", re.I), "{0}× Fang-Bonbons"),
+    (re.compile(r"^(\d+)\s*[x×]\s*Catch Candy$", re.I), "{0}× Fang-Bonbons"),
+    (re.compile(r"^(\d+)\s*[x×]\s*Catch Stardust$", re.I), "{0}× Fang-Sternenstaub"),
+    (re.compile(r"^(\d+)\s*[x×]\s*XP for hatching Eggs\.?$", re.I), "{0}× Schlüpf-XP"),
+    (re.compile(r"^(\d+)\s*[x×]\s*Stardust for hatching Eggs\.?$", re.I), "{0}× Schlüpf-Sternenstaub"),
+    (re.compile(r"^(\d+)\s*[x×]\s*Candy for hatching Eggs\.?$", re.I), "{0}× Schlüpf-Bonbons"),
+    (re.compile(r"^Eggs? require 1/(\d+) the distance to hatch\.?$", re.I), "1/{0} Ei-Distanz"),
+    (re.compile(r"^(\d+)\s*[x×]\s*Daily Adventure Incense duration\.?$", re.I), "{0}× Abenteuer-Rauch-Dauer"),
+    (re.compile(r"^(\d+)\s*[x×]\s*(?:duration for |Incense )?Incense duration\.?$", re.I), "{0}× Rauch-Dauer"),
+    (re.compile(r"^(\d+)\s*[x×]\s*Lure Module duration\.?$", re.I), "{0}× Lockmodul-Dauer"),
+    (re.compile(r"^Increased chance of encountering Shiny Pok[ée]mon\.?$", re.I), "Erhöhte Shiny-Chance"),
+    (re.compile(r"^Increased Buddy [Cc]andy earn rate\.?$", re.I), "Erhöhte Buddy-Bonbons"),
+    (re.compile(r"^Increased XP and Stardust from hatching Eggs\.?$", re.I), "Erhöhte Schlüpf-XP/-Staub"),
+    (re.compile(r"^Open up to (\d+) Gifts per day$", re.I), "Bis {0} Geschenke/Tag öffnen"),
+    (re.compile(r"^Receive up to (\d+) Gifts per day from spinning Pok[ée]Stop and Gym Photo Discs$", re.I), "Bis {0} Geschenke/Tag erhalten"),
+    (re.compile(r"^Hold (?:up to )?(\d+) more Gifts? in your Item Bag$", re.I), "+{0} Taschenplätze (Geschenke)"),
+    (re.compile(r"^One additional Candy for trading Pok[ée]mon\.?$", re.I), "+1 Bonbon beim Tauschen"),
     (re.compile(r"^Trainers level (\d+) and above will receive one guaranteed Candy XL when trading Pok[ée]mon\.?$", re.I),
-        "Trainer ab Level {0} erhalten beim Tauschen von Pokémon garantiert ein Bonbon XL"),
-    (re.compile(r"^(\d+)\s*[x×]\s*Trainer XP for the first catch of the day\.?$", re.I),
-        "{0}× Trainer-XP für den ersten Fang des Tages"),
-    (re.compile(r"^(\d+)\s*[x×]\s*Catch XP$", re.I),
-        "{0}× Fang-XP"),
+        "Garantiertes Bonbon XL ab Level {0} (Tausch)"),
+    (re.compile(r"^(\d+)\s*[x×]\s*Trainer XP for the first catch of the day\.?$", re.I), "{0}× XP (erster Fang/Tag)"),
+    (re.compile(r"^(\d+)\s*[x×]\s*Catch XP$", re.I), "{0}× Fang-XP"),
+    (re.compile(r"^(\d+)\s*[x×]\s*XP for spinning a Pok[ée]Stop\.?$", re.I), "{0}× PokéStop-XP"),
+    (re.compile(r"^1/(\d+) Egg Hatch Distance when Eggs are placed in an Incubator during the event period\.?$", re.I),
+        "1/{0} Ei-Distanz (Inkubator)"),
+    (re.compile(r"^Increased chance of receiving Candy XL from catching Pok[ée]mon\.?$", re.I), "Erhöhte Bonbon-XL-Chance (Fang)"),
+    (re.compile(r"^Increased limits on opening, receiving from Pok[ée]Stop and Gym Photo Discs, and storing Gifts\.?$", re.I),
+        "Erhöhte Geschenke-Limits"),
+    (re.compile(r"^One single-use Incubator awarded for your first Pok[ée]Stop or Gym spin of the day\.?$", re.I),
+        "1 Einweg-Inkubator (erster Spin/Tag)"),
 ]
 
+_PREFIX_RE = re.compile(r"^GO Pass(?: (Deluxe)):\s*", re.I)
 
-_PREFIX_RE = re.compile(r"^(GO Pass(?: Deluxe)?:\s*)(.*)$", re.I)
+
+def strip_prefix(text_en, deluxe):
+    """Detects a literal "GO Pass Deluxe:" prefix some pages bake into the item
+    text itself (rather than a separate "Upgrade to Deluxe" paragraph) and folds
+    it into the deluxe flag instead of keeping it as English filler text."""
+    m = _PREFIX_RE.match(text_en.strip())
+    if not m:
+        return text_en.strip(), deluxe
+    return text_en[m.end():].strip(), (deluxe or bool(m.group(1)))
 
 
 def translate(text_en):
     stripped = text_en.strip()
-    prefix = ""
-    m = _PREFIX_RE.match(stripped)
-    if m:
-        prefix, stripped = m.group(1), m.group(2)
     for pattern, template in TRANSLATIONS:
-        mm = pattern.match(stripped)
-        if mm:
-            return prefix + template.format(*mm.groups())
-    return prefix + stripped
+        m = pattern.match(stripped)
+        if m:
+            return template.format(*m.groups())
+    return stripped
+
+
+# --- gift-bonus consolidation ------------------------------------------------
+# The "Major Milestone Bonuses" section on GO Pass pages lists gift-related
+# perks (open/receive/hold limits) as three separate items; combine them into
+# one short line per (rank, deluxe) tier instead.
+_GIFT_OPEN_RE = re.compile(r"^Open up to (\d+) Gifts per day$", re.I)
+_GIFT_RECEIVE_RE = re.compile(r"^Receive up to (\d+) Gifts per day from spinning Pok[ée]Stop and Gym Photo Discs$", re.I)
+_GIFT_HOLD_RE = re.compile(r"^Hold (?:up to )?(\d+) more Gifts? in your Item Bag$", re.I)
+
+
+def combine_gift_bonuses(bonuses):
+    groups = defaultdict(list)
+    for i, b in enumerate(bonuses):
+        groups[(b["rank"], b["deluxe"])].append(i)
+
+    remove = set()
+    additions = []
+    for idxs in groups.values():
+        found = {}
+        for i in idxs:
+            text, _ = strip_prefix(bonuses[i]["text_en"], False)
+            if _GIFT_OPEN_RE.match(text):
+                found["open"] = (i, _GIFT_OPEN_RE.match(text).group(1))
+            elif _GIFT_HOLD_RE.match(text):
+                found["hold"] = (i, _GIFT_HOLD_RE.match(text).group(1))
+            elif _GIFT_RECEIVE_RE.match(text):
+                found["receive"] = (i, None)
+        if len(found) >= 2:
+            first_idx = min(v[0] for v in found.values())
+            parts = []
+            if "open" in found:
+                parts.append(f"{found['open'][1]}/Tag öffnen")
+            if "hold" in found:
+                parts.append(f"+{found['hold'][1]} Taschenplätze")
+            additions.append({**bonuses[first_idx], "text_en": "Geschenke: " + ", ".join(parts)})
+            remove.update(v[0] for v in found.values())
+
+    if not remove:
+        return bonuses
+    kept = [b for i, b in enumerate(bonuses) if i not in remove]
+    kept.extend(additions)
+    return kept
 
 
 # --- HTTP / feed helpers -----------------------------------------------------
@@ -292,16 +328,21 @@ def scrape_event(event):
     bonuses = parse_standard_bonuses(soup, event) + parse_milestone_bonuses(soup, event)
     if not bonuses:
         return []
+    bonuses = combine_gift_bonuses(bonuses)
     mark_rotating(bonuses)
 
     slug = event["link"].rstrip("/").rsplit("/", 1)[-1]
     out = []
     for b in bonuses:
-        text = translate(b["text_en"]).rstrip("*").strip()
+        base_text, deluxe = strip_prefix(b["text_en"], b["deluxe"])
+        text = translate(base_text).rstrip("*").strip()
+        suffix_parts = []
         if b["rank"]:
-            text += f" (GO Pass ab Rang {b['rank']})"
-        if b["deluxe"]:
-            text += " – Deluxe"
+            suffix_parts.append(f"ab Rang {b['rank']}")
+        if deluxe:
+            suffix_parts.append("Deluxe")
+        if suffix_parts:
+            text += " (" + ", ".join(suffix_parts) + ")"
         out.append({
             "text": text,
             "image": b["image"],

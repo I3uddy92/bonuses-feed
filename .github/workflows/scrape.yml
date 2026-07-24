@@ -33,3 +33,4 @@ jobs:
             git commit -m "Update bonuses.json"
             git push
           fi
+

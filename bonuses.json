@@ -270,6 +270,42 @@
     "rotating": false
   },
   {
+    "text": "2× Candy from hatching Eggs",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Fire and Ice Hatch Day",
+    "eventSlug": "fire-and-ice-hatch-day-2026",
+    "start": "2026-08-08T11:00:00",
+    "end": "2026-08-08T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "1/2 Egg Hatch Distance",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/eggdistance.png",
+    "eventName": "Fire and Ice Hatch Day",
+    "eventSlug": "fire-and-ice-hatch-day-2026",
+    "start": "2026-08-08T11:00:00",
+    "end": "2026-08-08T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance of hatching Shiny Smoochum and Shiny Magby",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Fire and Ice Hatch Day",
+    "eventSlug": "fire-and-ice-hatch-day-2026",
+    "start": "2026-08-08T11:00:00",
+    "end": "2026-08-08T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance of receiving 2 km Eggs from spinning PokéStops",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/egg2km.png",
+    "eventName": "Fire and Ice Hatch Day",
+    "eventSlug": "fire-and-ice-hatch-day-2026",
+    "start": "2026-08-08T11:00:00",
+    "end": "2026-08-08T17:00:00",
+    "rotating": false
+  },
+  {
     "text": "2× PokéStop-XP (ab Rang 10)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
     "eventName": "Summer Marathon: Arctic Embers",

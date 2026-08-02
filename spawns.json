@@ -79,5 +79,14 @@
     "eventSlug": "summer-marathon-2026",
     "start": "2026-08-04T10:00:00",
     "end": "2026-08-10T20:00:00"
+  },
+  {
+    "name": "Nickit",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png",
+    "canBeShiny": true,
+    "eventName": "Nickit Community Day",
+    "eventSlug": "august-communityday2026",
+    "start": "2026-08-16T14:00:00",
+    "end": "2026-08-16T17:00:00"
   }
 ]

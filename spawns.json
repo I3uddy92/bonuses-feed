@@ -1,5 +1,14 @@
 [
   {
+    "name": "Delibird",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_225_00.png",
+    "canBeShiny": true,
+    "eventName": "Delibird Spotlight Hour",
+    "eventSlug": "pokemonspotlighthour2026-08-06",
+    "start": "2026-08-06T18:00:00",
+    "end": "2026-08-06T19:00:00"
+  },
+  {
     "name": "Vulpix",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00.png",
     "canBeShiny": true,
@@ -79,6 +88,15 @@
     "eventSlug": "summer-marathon-2026",
     "start": "2026-08-04T10:00:00",
     "end": "2026-08-10T20:00:00"
+  },
+  {
+    "name": "Wurmple",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00.png",
+    "canBeShiny": true,
+    "eventName": "Wurmple Spotlight Hour",
+    "eventSlug": "pokemonspotlighthour2026-08-13",
+    "start": "2026-08-13T18:00:00",
+    "end": "2026-08-13T19:00:00"
   },
   {
     "name": "Nickit",

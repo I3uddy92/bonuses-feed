@@ -1,59 +1,5 @@
 [
   {
-    "text": "+1 Bonbon beim Tauschen (ab Rang 1)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
-    "eventName": "GO Pass: July",
-    "eventSlug": "go-pass-july-2026",
-    "start": "2026-07-07T10:00:00",
-    "end": "2026-08-04T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Garantiertes Bonbon XL ab Level 31 (Tausch) (ab Rang 1)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
-    "eventName": "GO Pass: July",
-    "eventSlug": "go-pass-july-2026",
-    "start": "2026-07-07T10:00:00",
-    "end": "2026-08-04T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "2× Abenteuer-Rauch-Dauer (ab Rang 50)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/dailyincense.png",
-    "eventName": "GO Pass: July",
-    "eventSlug": "go-pass-july-2026",
-    "start": "2026-07-07T10:00:00",
-    "end": "2026-08-04T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Erhöhte Schlüpf-XP/-Staub (ab Rang 75)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust2xhatch.png",
-    "eventName": "GO Pass: July",
-    "eventSlug": "go-pass-july-2026",
-    "start": "2026-07-07T10:00:00",
-    "end": "2026-08-04T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Geschenke: 40/Tag öffnen, +10 Taschenplätze (ab Rang 25)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
-    "eventName": "GO Pass: July",
-    "eventSlug": "go-pass-july-2026",
-    "start": "2026-07-07T10:00:00",
-    "end": "2026-08-04T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Geschenke: 50/Tag öffnen, +20 Taschenplätze (ab Rang 25, Deluxe)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
-    "eventName": "GO Pass: July",
-    "eventSlug": "go-pass-july-2026",
-    "start": "2026-07-07T10:00:00",
-    "end": "2026-08-04T10:00:00",
-    "rotating": false
-  },
-  {
     "text": "2× Candy from hatching Eggs",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
     "eventName": "Fire and Ice Hatch Day",
@@ -195,6 +141,96 @@
     "eventSlug": "august-communityday2026",
     "start": "2026-08-16T14:00:00",
     "end": "2026-08-16T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Rainy Lure Modules will attract Arrokuda",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/rainylure.png",
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-18T10:00:00",
+    "end": "2026-08-24T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance to encounter Shiny Ducklett and Shiny Dewpider",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-18T10:00:00",
+    "end": "2026-08-24T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Fang-XP",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-18T10:00:00",
+    "end": "2026-08-20T10:00:00",
+    "rotating": true
+  },
+  {
+    "text": "3× Fang-Sternenstaub",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-18T10:00:00",
+    "end": "2026-08-20T10:00:00",
+    "rotating": true
+  },
+  {
+    "text": "3× Fang-XP",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-20T10:00:00",
+    "end": "2026-08-22T10:00:00",
+    "rotating": true
+  },
+  {
+    "text": "4× Fang-Sternenstaub",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-20T10:00:00",
+    "end": "2026-08-22T10:00:00",
+    "rotating": true
+  },
+  {
+    "text": "4× Fang-XP",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-22T10:00:00",
+    "end": "2026-08-24T20:00:00",
+    "rotating": true
+  },
+  {
+    "text": "5× Fang-Sternenstaub",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-22T10:00:00",
+    "end": "2026-08-24T20:00:00",
+    "rotating": true
+  },
+  {
+    "text": "2× Fang-Bonbons (ab Rang 10)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-18T10:00:00",
+    "end": "2026-08-24T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "1/2 Ei-Distanz (Inkubator) (ab Rang 20)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/eggdistance.png",
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-18T10:00:00",
+    "end": "2026-08-24T20:00:00",
     "rotating": false
   },
   {

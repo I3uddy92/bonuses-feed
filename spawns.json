@@ -133,5 +133,68 @@
     "eventSlug": "august-communityday2026",
     "start": "2026-08-16T14:00:00",
     "end": "2026-08-16T17:00:00"
+  },
+  {
+    "name": "Psyduck",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_054_00.png",
+    "canBeShiny": true,
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-18T10:00:00",
+    "end": "2026-08-24T20:00:00"
+  },
+  {
+    "name": "Goldeen",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_118_00.png",
+    "canBeShiny": true,
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-18T10:00:00",
+    "end": "2026-08-24T20:00:00"
+  },
+  {
+    "name": "Mareanie",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm747.icon.png",
+    "canBeShiny": true,
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-18T10:00:00",
+    "end": "2026-08-24T20:00:00"
+  },
+  {
+    "name": "Wimpod",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png",
+    "canBeShiny": true,
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-18T10:00:00",
+    "end": "2026-08-24T20:00:00"
+  },
+  {
+    "name": "Feebas",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_349_00.png",
+    "canBeShiny": true,
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-18T10:00:00",
+    "end": "2026-08-24T20:00:00"
+  },
+  {
+    "name": "Clamperl",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_366_00.png",
+    "canBeShiny": true,
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-18T10:00:00",
+    "end": "2026-08-24T20:00:00"
+  },
+  {
+    "name": "Wiglett",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0960_000_mf_n_00000000_f_n.png",
+    "canBeShiny": true,
+    "eventName": "Ultra Unlock: Water Festival",
+    "eventSlug": "water-festival-2026",
+    "start": "2026-08-18T10:00:00",
+    "end": "2026-08-24T20:00:00"
   }
 ]

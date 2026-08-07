@@ -1,14 +1,5 @@
 [
   {
-    "name": "Delibird",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_225_00.png",
-    "canBeShiny": true,
-    "eventName": "Delibird Spotlight Hour",
-    "eventSlug": "pokemonspotlighthour2026-08-06",
-    "start": "2026-08-06T18:00:00",
-    "end": "2026-08-06T19:00:00"
-  },
-  {
     "name": "Vulpix",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00.png",
     "canBeShiny": true,
@@ -133,6 +124,15 @@
     "eventSlug": "august-communityday2026",
     "start": "2026-08-16T14:00:00",
     "end": "2026-08-16T17:00:00"
+  },
+  {
+    "name": "Magikarp",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
+    "canBeShiny": true,
+    "eventName": "Magikarp Spotlight Hour",
+    "eventSlug": "pokemonspotlighthour2026-08-20",
+    "start": "2026-08-20T18:00:00",
+    "end": "2026-08-20T19:00:00"
   },
   {
     "name": "Psyduck",

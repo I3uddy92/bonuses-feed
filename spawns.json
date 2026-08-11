@@ -88,5 +88,167 @@
     "eventSlug": "water-festival-2026",
     "start": "2026-08-18T10:00:00",
     "end": "2026-08-24T20:00:00"
+  },
+  {
+    "name": "Ralts",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Numel",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_322_00.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Spheal",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_363_00.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Drifloon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_425_00.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Elgyem",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_605_00.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Sobble",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Pawmi",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm921.icon.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Deino",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Alolan Sandshrew",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_027_61.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Mankey",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Lickitung",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_108_00.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Totodile",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Wooper",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_194_00.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Foongus",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_590_00.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Froakie",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Litten",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm725.icon.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Togetic",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_176_00.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "name": "Beldum",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png",
+    "canBeShiny": true,
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
   }
 ]

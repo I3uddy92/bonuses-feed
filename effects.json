@@ -1,23 +1,128 @@
 [
   {
-    "text": "Frenzy Plant",
-    "eventName": "Ultra Unlock: 10th Anniversary Edition",
-    "eventSlug": "ultra-unlock-10th-anniversary-edition",
-    "start": "2026-07-21T10:00:00",
-    "end": "2026-07-27T20:00:00"
+    "text": "Alolan Sandslash",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
   },
   {
-    "text": "Blast Burn",
-    "eventName": "Ultra Unlock: 10th Anniversary Edition",
-    "eventSlug": "ultra-unlock-10th-anniversary-edition",
-    "start": "2026-07-21T10:00:00",
-    "end": "2026-07-27T20:00:00"
+    "text": "Primeape",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
   },
   {
-    "text": "Hydro Cannon",
-    "eventName": "Ultra Unlock: 10th Anniversary Edition",
-    "eventSlug": "ultra-unlock-10th-anniversary-edition",
-    "start": "2026-07-21T10:00:00",
-    "end": "2026-07-27T20:00:00"
+    "text": "Lickitung",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Feraligatr",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Quagsire",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Gardevoir",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Walrein",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Metagross",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Lickilicky",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Togekiss",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Gallade",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Hydreigon",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Greninja",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Decidueye",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Incineroar",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Inteleon",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Corviknight",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
+  },
+  {
+    "text": "Annihilape",
+    "eventName": "PokémonXP &amp; 2026 Worlds",
+    "eventSlug": "pokemon-xp-2026-worlds",
+    "start": "2026-08-25T10:00:00",
+    "end": "2026-08-30T20:00:00"
   }
 ]

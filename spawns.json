@@ -1,14 +1,5 @@
 [
   {
-    "name": "Wurmple",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00.png",
-    "canBeShiny": true,
-    "eventName": "Wurmple Spotlight Hour",
-    "eventSlug": "pokemonspotlighthour2026-08-13",
-    "start": "2026-08-13T18:00:00",
-    "end": "2026-08-13T19:00:00"
-  },
-  {
     "name": "Nickit",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png",
     "canBeShiny": true,
@@ -88,6 +79,15 @@
     "eventSlug": "water-festival-2026",
     "start": "2026-08-18T10:00:00",
     "end": "2026-08-24T20:00:00"
+  },
+  {
+    "name": "Mankey",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png",
+    "canBeShiny": true,
+    "eventName": "Mankey Spotlight Hour",
+    "eventSlug": "pokemonspotlighthour2026-08-27",
+    "start": "2026-08-27T18:00:00",
+    "end": "2026-08-27T19:00:00"
   },
   {
     "name": "Ralts",

@@ -1,14 +1,5 @@
 [
   {
-    "name": "Nickit",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png",
-    "canBeShiny": true,
-    "eventName": "Nickit Community Day",
-    "eventSlug": "august-communityday2026",
-    "start": "2026-08-16T14:00:00",
-    "end": "2026-08-16T17:00:00"
-  },
-  {
     "name": "Magikarp",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
     "canBeShiny": true,

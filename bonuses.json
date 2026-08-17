@@ -225,6 +225,15 @@
     "rotating": false
   },
   {
+    "text": "Remote Raid Pass limit increased to 30 from Monday, August 31, to Friday, September 4, 2026",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
+    "eventName": "Mega Ascension",
+    "eventSlug": "mega-ascension",
+    "start": "2026-08-31T10:00:00",
+    "end": "2026-09-04T23:59:00",
+    "rotating": false
+  },
+  {
     "text": "+1 Bonbon beim Tauschen (ab Rang 1)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
     "eventName": "Forever Forward",

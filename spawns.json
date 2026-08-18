@@ -117,15 +117,6 @@
     "end": "2026-08-24T20:00:00"
   },
   {
-    "name": "Squirtle",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png",
-    "canBeShiny": true,
-    "eventName": "Ultra Unlock: Water Festival",
-    "eventSlug": "water-festival-2026",
-    "start": "2026-08-18T10:00:00",
-    "end": "2026-08-24T20:00:00"
-  },
-  {
     "name": "Gyarados",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_00.png",
     "canBeShiny": true,
@@ -146,24 +137,6 @@
   {
     "name": "Clamperl",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_366_00.png",
-    "canBeShiny": true,
-    "eventName": "Ultra Unlock: Water Festival",
-    "eventSlug": "water-festival-2026",
-    "start": "2026-08-18T10:00:00",
-    "end": "2026-08-24T20:00:00"
-  },
-  {
-    "name": "Oshawott",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_501_00.png",
-    "canBeShiny": true,
-    "eventName": "Ultra Unlock: Water Festival",
-    "eventSlug": "water-festival-2026",
-    "start": "2026-08-18T10:00:00",
-    "end": "2026-08-24T20:00:00"
-  },
-  {
-    "name": "Popplio",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm728.icon.png",
     "canBeShiny": true,
     "eventName": "Ultra Unlock: Water Festival",
     "eventSlug": "water-festival-2026",

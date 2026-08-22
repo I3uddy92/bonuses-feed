@@ -403,5 +403,599 @@
     "eventSlug": "mega-ascension",
     "start": "2026-08-31T10:00:00",
     "end": "2026-09-04T23:59:00"
+  },
+  {
+    "name": "Chespin",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_650_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Fennekin",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_653_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Froakie",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Weedle",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Bellsprout",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_069_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Scyther",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_123_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Pinsir",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_127_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Roselia",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_315_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Snover",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_459_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Venipede",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_543_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Skiddo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm672.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Abra",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Slowpoke",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Staryu",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_120_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Ralts",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Meditite",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_307_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Espurr",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_677_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Binacle",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Clauncher",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Gastly",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Houndour",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Shuppet",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_353_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Zorua",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Litwick",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_607_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Inkay",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_686_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Phantump",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Pumpkaboo (Medium)",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm710.fAVERAGE.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Pikachu",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Mareep",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Electrike",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Emolga",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_587_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Tynamo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_602_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Stunfisk",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Helioptile",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm694.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Dedenne",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Onix",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_095_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Skarmory",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Aron",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Snorunt",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_361_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Beldum",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Drilbur",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Amaura",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm698.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Bergmite",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm712.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Machop",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_066_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Carvanha",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Numel",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_322_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Buneary",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_427_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Sandile",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Scraggy",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_559_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Pancham",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_674_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Falinks",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Magikarp",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Aerodactyl",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_142_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Dratini",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Swablu",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_333_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Bagon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Fletchling",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_661_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Tyrunt",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm696.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Noibat",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Clefairy",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_035_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Sableye",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Mawile",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_303_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Audino",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_531_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Furfrou (Natural)",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fNATURAL.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Spritzee",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_682_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Carbink",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm703.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00"
   }
 ]

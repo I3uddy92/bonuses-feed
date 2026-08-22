@@ -234,6 +234,42 @@
     "rotating": false
   },
   {
+    "text": "No limit on Remote Raids from Saturday, September 5, to Sunday, September 6, 2026",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "All Mega-Evolved Pokémon will receive an extra CP boost from Saturday, September 5, to Sunday, September 6, 2026",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/megaevolution.png",
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Bonus Candy, Candy XL, and XP from Mega Raids",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance of encountering Shiny Pokémon from certain Mega Raids and event Pokémon encounters",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Pokémon GO Fest 2026: Mega Finale",
+    "eventSlug": "pokemon-go-fest-2026-mega-finale",
+    "start": "2026-09-05T10:00:00",
+    "end": "2026-09-06T18:00:00",
+    "rotating": false
+  },
+  {
     "text": "+1 Bonbon beim Tauschen (ab Rang 1)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
     "eventName": "Forever Forward",

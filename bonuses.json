@@ -187,5 +187,104 @@
     "start": "2026-08-04T10:00:00",
     "end": "2026-09-08T10:00:00",
     "rotating": false
+  },
+  {
+    "text": "+1 Bonbon beim Tauschen (ab Rang 1)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "GO Pass: September",
+    "eventSlug": "go-pass-september-2026",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-10-06T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Garantiertes Bonbon XL ab Level 31 (Tausch) (ab Rang 1)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
+    "eventName": "GO Pass: September",
+    "eventSlug": "go-pass-september-2026",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-10-06T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Abenteuer-Rauch-Dauer (ab Rang 50)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/dailyincense.png",
+    "eventName": "GO Pass: September",
+    "eventSlug": "go-pass-september-2026",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-10-06T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Erhöhte Schlüpf-XP/-Staub (ab Rang 75)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust2xhatch.png",
+    "eventName": "GO Pass: September",
+    "eventSlug": "go-pass-september-2026",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-10-06T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Geschenke: 40/Tag öffnen, +10 Taschenplätze (ab Rang 25)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
+    "eventName": "GO Pass: September",
+    "eventSlug": "go-pass-september-2026",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-10-06T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Geschenke: 50/Tag öffnen, +20 Taschenplätze (ab Rang 25, Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
+    "eventName": "GO Pass: September",
+    "eventSlug": "go-pass-september-2026",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-10-06T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "One guaranteed Candy XL when trading Pokémon for Trainers level 31 and above (ab Rang 1)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
+    "eventName": "Twilight Trails",
+    "eventSlug": "season-24-twilight-trails",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-12-01T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "+1 Bonbon beim Tauschen (ab Rang 1)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Twilight Trails",
+    "eventSlug": "season-24-twilight-trails",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-12-01T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased limits on opening Gifts, receiving Gifts from PokéStop and Gym Photo Discs, and storing Gifts (ab Rang 25)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
+    "eventName": "Twilight Trails",
+    "eventSlug": "season-24-twilight-trails",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-12-01T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Abenteuer-Rauch-Dauer (ab Rang 50)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/dailyincense.png",
+    "eventName": "Twilight Trails",
+    "eventSlug": "season-24-twilight-trails",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-12-01T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Erhöhte Schlüpf-XP/-Staub (ab Rang 75)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust2xhatch.png",
+    "eventName": "Twilight Trails",
+    "eventSlug": "season-24-twilight-trails",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-12-01T10:00:00",
+    "rotating": false
   }
 ]

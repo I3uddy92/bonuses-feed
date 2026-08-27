@@ -1,14 +1,5 @@
 [
   {
-    "name": "Mankey",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png",
-    "canBeShiny": true,
-    "eventName": "Mankey Spotlight Hour",
-    "eventSlug": "pokemonspotlighthour2026-08-27",
-    "start": "2026-08-27T18:00:00",
-    "end": "2026-08-27T19:00:00"
-  },
-  {
     "name": "Ralts",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png",
     "canBeShiny": true,
@@ -853,5 +844,32 @@
     "eventSlug": "pokemon-go-fest-2026-mega-finale",
     "start": "2026-09-05T10:00:00",
     "end": "2026-09-06T18:00:00"
+  },
+  {
+    "name": "Weedle",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
+    "canBeShiny": true,
+    "eventName": "Weedle, Kakuna, and Beedrill Spotlight Hour",
+    "eventSlug": "pokemonspotlighthour2026-09-10",
+    "start": "2026-09-10T18:00:00",
+    "end": "2026-09-10T19:00:00"
+  },
+  {
+    "name": "Kakuna",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_014_00.png",
+    "canBeShiny": true,
+    "eventName": "Weedle, Kakuna, and Beedrill Spotlight Hour",
+    "eventSlug": "pokemonspotlighthour2026-09-10",
+    "start": "2026-09-10T18:00:00",
+    "end": "2026-09-10T19:00:00"
+  },
+  {
+    "name": "Beedrill",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_00.png",
+    "canBeShiny": true,
+    "eventName": "Weedle, Kakuna, and Beedrill Spotlight Hour",
+    "eventSlug": "pokemonspotlighthour2026-09-10",
+    "start": "2026-09-10T18:00:00",
+    "end": "2026-09-10T19:00:00"
   }
 ]

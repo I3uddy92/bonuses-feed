@@ -871,5 +871,23 @@
     "eventSlug": "pokemonspotlighthour2026-09-10",
     "start": "2026-09-10T18:00:00",
     "end": "2026-09-10T19:00:00"
+  },
+  {
+    "name": "Houndour",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+    "canBeShiny": true,
+    "eventName": "Houndour and Houndoom Spotlight Hour",
+    "eventSlug": "pokemonspotlighthour2026-09-13",
+    "start": "2026-09-13T18:00:00",
+    "end": "2026-09-13T19:00:00"
+  },
+  {
+    "name": "Houndoom",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_00.png",
+    "canBeShiny": true,
+    "eventName": "Houndour and Houndoom Spotlight Hour",
+    "eventSlug": "pokemonspotlighthour2026-09-13",
+    "start": "2026-09-13T18:00:00",
+    "end": "2026-09-13T19:00:00"
   }
 ]

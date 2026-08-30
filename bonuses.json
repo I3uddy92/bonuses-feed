@@ -1,50 +1,5 @@
 [
   {
-    "text": "The maximum number of sets you can play per day will increase from five to 15—for a total of 75 battles.",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/battlepass.png",
-    "eventName": "PokémonXP &amp; 2026 Worlds",
-    "eventSlug": "pokemon-xp-2026-worlds",
-    "start": "2026-08-25T10:00:00",
-    "end": "2026-08-30T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Pokémon encountered via GO Battle League rewards will have a wider variance of Attack, Defense, and HP.",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
-    "eventName": "PokémonXP &amp; 2026 Worlds",
-    "eventSlug": "pokemon-xp-2026-worlds",
-    "start": "2026-08-25T10:00:00",
-    "end": "2026-08-30T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "2× Fang-Sternenstaub (ab Rang 10)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust2x.png",
-    "eventName": "PokémonXP &amp; 2026 Worlds",
-    "eventSlug": "pokemon-xp-2026-worlds",
-    "start": "2026-08-25T10:00:00",
-    "end": "2026-08-30T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "An additional 3,000 XP from raids. (ab Rang 20)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
-    "eventName": "PokémonXP &amp; 2026 Worlds",
-    "eventSlug": "pokemon-xp-2026-worlds",
-    "start": "2026-08-25T10:00:00",
-    "end": "2026-08-30T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Receive up to two additional free Raid Passes from spinning Gym Photo Discs. (ab Rang 20, Deluxe)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/freeraidpass.png",
-    "eventName": "PokémonXP &amp; 2026 Worlds",
-    "eventSlug": "pokemon-xp-2026-worlds",
-    "start": "2026-08-25T10:00:00",
-    "end": "2026-08-30T20:00:00",
-    "rotating": false
-  },
-  {
     "text": "Remote Raid Pass limit increased to 30 from Monday, August 31, to Friday, September 4, 2026",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
     "eventName": "Mega Ascension",

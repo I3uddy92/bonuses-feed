@@ -711,6 +711,15 @@
     "end": "2026-09-10T19:00:00"
   },
   {
+    "name": "Gible",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
+    "canBeShiny": true,
+    "eventName": "Gible Community Day Classic",
+    "eventSlug": "september-communitydayclassic2026",
+    "start": "2026-09-12T14:00:00",
+    "end": "2026-09-12T17:00:00"
+  },
+  {
     "name": "Houndour",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
     "canBeShiny": true,
@@ -727,5 +736,59 @@
     "eventSlug": "pokemonspotlighthour2026-09-13",
     "start": "2026-09-13T18:00:00",
     "end": "2026-09-13T19:00:00"
+  },
+  {
+    "name": "Weedle",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
+    "canBeShiny": true,
+    "eventName": "Mega Squads",
+    "eventSlug": "mega-squads",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-09-14T20:00:00"
+  },
+  {
+    "name": "Flamigo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
+    "canBeShiny": true,
+    "eventName": "Mega Squads",
+    "eventSlug": "mega-squads",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-09-14T20:00:00"
+  },
+  {
+    "name": "Pidgey",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png",
+    "canBeShiny": true,
+    "eventName": "Mega Squads",
+    "eventSlug": "mega-squads",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-09-14T20:00:00"
+  },
+  {
+    "name": "Rookidee",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
+    "canBeShiny": true,
+    "eventName": "Mega Squads",
+    "eventSlug": "mega-squads",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-09-14T20:00:00"
+  },
+  {
+    "name": "Houndour",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+    "canBeShiny": true,
+    "eventName": "Mega Squads",
+    "eventSlug": "mega-squads",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-09-14T20:00:00"
+  },
+  {
+    "name": "Carvanha",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png",
+    "canBeShiny": true,
+    "eventName": "Mega Squads",
+    "eventSlug": "mega-squads",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-09-14T20:00:00"
   }
 ]

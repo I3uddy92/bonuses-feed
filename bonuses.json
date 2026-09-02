@@ -207,6 +207,51 @@
     "rotating": false
   },
   {
+    "text": "Increased chance to encounter Kecleon at PokéStops",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/pokestop.png",
+    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Fang-Bonbons",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "3× Fang-Bonbons (Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Regular Lure Modules will last for one hour and may attract the featured Pokémon",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/lure.png",
+    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Additional Stardust for catching Hatenna and Wattrel",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00",
+    "rotating": false
+  },
+  {
     "text": "+1 Bonbon beim Tauschen (ab Rang 1)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
     "eventName": "GO Pass: September",

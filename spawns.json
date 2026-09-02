@@ -790,5 +790,77 @@
     "eventSlug": "mega-squads",
     "start": "2026-09-08T10:00:00",
     "end": "2026-09-14T20:00:00"
+  },
+  {
+    "name": "Charmander wearing Friede's goggles",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00"
+  },
+  {
+    "name": "Captain's Cap Pikachu",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fHORIZONS.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00"
+  },
+  {
+    "name": "Fidough",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00"
+  },
+  {
+    "name": "Wattrel",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm940.icon.png",
+    "canBeShiny": false,
+    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00"
+  },
+  {
+    "name": "Chansey",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00"
+  },
+  {
+    "name": "Eevee",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00"
+  },
+  {
+    "name": "Hatenna",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm856.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00"
+  },
+  {
+    "name": "Rockruff",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm744.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00"
   }
 ]

@@ -207,6 +207,78 @@
     "rotating": false
   },
   {
+    "text": "Remote Raid limit increased to 20 from Friday, September 18, at 5:00 p.m. to Saturday, September 19, 2026, at 8:00 p.m. PDT",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
+    "eventName": "Staraptor Super Mega Raid Day",
+    "eventSlug": "staraptor-super-mega-raid-day-2026",
+    "start": "2026-09-19T14:00:00",
+    "end": "2026-09-19T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/freeraidpass.png",
+    "eventName": "Staraptor Super Mega Raid Day",
+    "eventSlug": "staraptor-super-mega-raid-day-2026",
+    "start": "2026-09-19T14:00:00",
+    "end": "2026-09-19T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Staraptor caught from Super Mega Raids will have Mega Level 1 unlocked",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/megaevolution.png",
+    "eventName": "Staraptor Super Mega Raid Day",
+    "eventSlug": "staraptor-super-mega-raid-day-2026",
+    "start": "2026-09-19T14:00:00",
+    "end": "2026-09-19T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance of encountering Shiny Staraptor from Super Mega Raids",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Staraptor Super Mega Raid Day",
+    "eventSlug": "staraptor-super-mega-raid-day-2026",
+    "start": "2026-09-19T14:00:00",
+    "end": "2026-09-19T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/freeraidpass.png",
+    "eventName": "Staraptor Super Mega Raid Day",
+    "eventSlug": "staraptor-super-mega-raid-day-2026",
+    "start": "2026-09-19T14:00:00",
+    "end": "2026-09-19T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance to get Rare Candy XL from Raid Battles",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/rarecandyxl.png",
+    "eventName": "Staraptor Super Mega Raid Day",
+    "eventSlug": "staraptor-super-mega-raid-day-2026",
+    "start": "2026-09-19T14:00:00",
+    "end": "2026-09-19T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "An additional 5,000 XP from Super Mega Raid Battles",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
+    "eventName": "Staraptor Super Mega Raid Day",
+    "eventSlug": "staraptor-super-mega-raid-day-2026",
+    "start": "2026-09-19T14:00:00",
+    "end": "2026-09-19T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "An additional 5,000 Stardust from Super Mega Raid Battles",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Staraptor Super Mega Raid Day",
+    "eventSlug": "staraptor-super-mega-raid-day-2026",
+    "start": "2026-09-19T14:00:00",
+    "end": "2026-09-19T17:00:00",
+    "rotating": false
+  },
+  {
     "text": "Increased chance to encounter Kecleon at PokéStops",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/pokestop.png",
     "eventName": "Pokémon Horizons: The Series Celebration Event",

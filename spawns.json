@@ -108,6 +108,24 @@
     "end": "2026-09-14T20:00:00"
   },
   {
+    "name": "Purrloin",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_509_00.png",
+    "canBeShiny": true,
+    "eventName": "Mega Squads",
+    "eventSlug": "mega-squads",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-09-14T20:00:00"
+  },
+  {
+    "name": "Nickit",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png",
+    "canBeShiny": true,
+    "eventName": "Mega Squads",
+    "eventSlug": "mega-squads",
+    "start": "2026-09-08T10:00:00",
+    "end": "2026-09-14T20:00:00"
+  },
+  {
     "name": "Charmander wearing Friede's goggles",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
     "canBeShiny": true,

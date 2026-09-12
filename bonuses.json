@@ -1,41 +1,5 @@
 [
   {
-    "text": "Increased Spawns",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/wildgrass.png",
-    "eventName": "Gible Community Day Classic",
-    "eventSlug": "september-communitydayclassic2026",
-    "start": "2026-09-12T14:00:00",
-    "end": "2026-09-12T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "3× Fang-XP",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
-    "eventName": "Gible Community Day Classic",
-    "eventSlug": "september-communitydayclassic2026",
-    "start": "2026-09-12T14:00:00",
-    "end": "2026-09-12T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "3-hour Incense",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/incense.png",
-    "eventName": "Gible Community Day Classic",
-    "eventSlug": "september-communitydayclassic2026",
-    "start": "2026-09-12T14:00:00",
-    "end": "2026-09-12T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "1-hour Lures",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/lure.png",
-    "eventName": "Gible Community Day Classic",
-    "eventSlug": "september-communitydayclassic2026",
-    "start": "2026-09-12T14:00:00",
-    "end": "2026-09-12T17:00:00",
-    "rotating": false
-  },
-  {
     "text": "Chance to obtain Mega Energy when catching Weedle, Pidgey, Houndour, Carvanha, or their Evolutions",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/megaevolution.png",
     "eventName": "Mega Squads",

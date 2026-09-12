@@ -1,14 +1,5 @@
 [
   {
-    "name": "Gible",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
-    "canBeShiny": true,
-    "eventName": "Gible Community Day Classic",
-    "eventSlug": "september-communitydayclassic2026",
-    "start": "2026-09-12T14:00:00",
-    "end": "2026-09-12T17:00:00"
-  },
-  {
     "name": "Houndour",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
     "canBeShiny": true,

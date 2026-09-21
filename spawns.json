@@ -1,135 +1,36 @@
 [
   {
-    "name": "Houndour",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
-    "canBeShiny": true,
-    "eventName": "Houndour and Houndoom Spotlight Hour",
-    "eventSlug": "pokemonspotlighthour2026-09-13",
-    "start": "2026-09-13T18:00:00",
-    "end": "2026-09-13T19:00:00"
-  },
-  {
-    "name": "Houndoom",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_00.png",
-    "canBeShiny": true,
-    "eventName": "Houndour and Houndoom Spotlight Hour",
-    "eventSlug": "pokemonspotlighthour2026-09-13",
-    "start": "2026-09-13T18:00:00",
-    "end": "2026-09-13T19:00:00"
-  },
-  {
-    "name": "Weedle",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
-    "canBeShiny": true,
-    "eventName": "Mega Squads",
-    "eventSlug": "mega-squads",
-    "start": "2026-09-08T10:00:00",
-    "end": "2026-09-14T20:00:00"
-  },
-  {
-    "name": "Flamigo",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
-    "canBeShiny": true,
-    "eventName": "Mega Squads",
-    "eventSlug": "mega-squads",
-    "start": "2026-09-08T10:00:00",
-    "end": "2026-09-14T20:00:00"
-  },
-  {
-    "name": "Pidgey",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png",
-    "canBeShiny": true,
-    "eventName": "Mega Squads",
-    "eventSlug": "mega-squads",
-    "start": "2026-09-08T10:00:00",
-    "end": "2026-09-14T20:00:00"
-  },
-  {
-    "name": "Emolga",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_587_00.png",
-    "canBeShiny": true,
-    "eventName": "Mega Squads",
-    "eventSlug": "mega-squads",
-    "start": "2026-09-08T10:00:00",
-    "end": "2026-09-14T20:00:00"
-  },
-  {
-    "name": "Fletchling",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_661_00.png",
-    "canBeShiny": true,
-    "eventName": "Mega Squads",
-    "eventSlug": "mega-squads",
-    "start": "2026-09-08T10:00:00",
-    "end": "2026-09-14T20:00:00"
-  },
-  {
-    "name": "Noibat",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
-    "canBeShiny": true,
-    "eventName": "Mega Squads",
-    "eventSlug": "mega-squads",
-    "start": "2026-09-08T10:00:00",
-    "end": "2026-09-14T20:00:00"
-  },
-  {
-    "name": "Rookidee",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
-    "canBeShiny": true,
-    "eventName": "Mega Squads",
-    "eventSlug": "mega-squads",
-    "start": "2026-09-08T10:00:00",
-    "end": "2026-09-14T20:00:00"
-  },
-  {
-    "name": "Houndour",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
-    "canBeShiny": true,
-    "eventName": "Mega Squads",
-    "eventSlug": "mega-squads",
-    "start": "2026-09-08T10:00:00",
-    "end": "2026-09-14T20:00:00"
-  },
-  {
-    "name": "Carvanha",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png",
-    "canBeShiny": true,
-    "eventName": "Mega Squads",
-    "eventSlug": "mega-squads",
-    "start": "2026-09-08T10:00:00",
-    "end": "2026-09-14T20:00:00"
-  },
-  {
-    "name": "Purrloin",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_509_00.png",
-    "canBeShiny": true,
-    "eventName": "Mega Squads",
-    "eventSlug": "mega-squads",
-    "start": "2026-09-08T10:00:00",
-    "end": "2026-09-14T20:00:00"
-  },
-  {
-    "name": "Nickit",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png",
-    "canBeShiny": true,
-    "eventName": "Mega Squads",
-    "eventSlug": "mega-squads",
-    "start": "2026-09-08T10:00:00",
-    "end": "2026-09-14T20:00:00"
-  },
-  {
     "name": "Charmander wearing Friede's goggles",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm4.fGOGGLES_2026.icon.png",
     "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
     "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
     "start": "2026-09-16T10:00:00",
     "end": "2026-09-22T20:00:00"
   },
   {
-    "name": "Captain's Cap Pikachu",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fHORIZONS.icon.png",
+    "name": "Sprigatito",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm906.icon.png",
     "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00"
+  },
+  {
+    "name": "Fuecoco",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm909.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00"
+  },
+  {
+    "name": "Quaxly",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm912.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
     "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
     "start": "2026-09-16T10:00:00",
     "end": "2026-09-22T20:00:00"
@@ -138,7 +39,7 @@
     "name": "Fidough",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png",
     "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
     "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
     "start": "2026-09-16T10:00:00",
     "end": "2026-09-22T20:00:00"
@@ -147,7 +48,16 @@
     "name": "Wattrel",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm940.icon.png",
     "canBeShiny": false,
-    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00"
+  },
+  {
+    "name": "Captain's Cap Pikachu",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fHORIZONS.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
     "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
     "start": "2026-09-16T10:00:00",
     "end": "2026-09-22T20:00:00"
@@ -156,7 +66,16 @@
     "name": "Chansey",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png",
     "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00"
+  },
+  {
+    "name": "Rhyhorn",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_111_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
     "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
     "start": "2026-09-16T10:00:00",
     "end": "2026-09-22T20:00:00"
@@ -165,7 +84,7 @@
     "name": "Eevee",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png",
     "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
     "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
     "start": "2026-09-16T10:00:00",
     "end": "2026-09-22T20:00:00"
@@ -174,7 +93,25 @@
     "name": "Hatenna",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm856.icon.png",
     "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00"
+  },
+  {
+    "name": "Nacli",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm932.icon.png",
+    "canBeShiny": false,
+    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
+    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
+    "start": "2026-09-16T10:00:00",
+    "end": "2026-09-22T20:00:00"
+  },
+  {
+    "name": "Tinkatink",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
     "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
     "start": "2026-09-16T10:00:00",
     "end": "2026-09-22T20:00:00"
@@ -183,7 +120,7 @@
     "name": "Rockruff",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm744.icon.png",
     "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event",
+    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
     "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
     "start": "2026-09-16T10:00:00",
     "end": "2026-09-22T20:00:00"
@@ -214,5 +151,185 @@
     "eventSlug": "catch-mastery-phantump-2026",
     "start": "2026-09-26T10:00:00",
     "end": "2026-09-26T20:00:00"
+  },
+  {
+    "name": "Seedot",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_273_00.png",
+    "canBeShiny": true,
+    "eventName": "Seedot Spotlight Hour",
+    "eventSlug": "pokemonspotlighthour2026-10-01",
+    "start": "2026-10-01T18:00:00",
+    "end": "2026-10-01T19:00:00"
+  },
+  {
+    "name": "Caterpie",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00.png",
+    "canBeShiny": true,
+    "eventName": "Patterns of the Wild",
+    "eventSlug": "patterns-of-the-wild-2026",
+    "start": "2026-10-02T10:00:00",
+    "end": "2026-10-02T20:00:00"
+  },
+  {
+    "name": "Batik Shirt Pikachu",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fTSHIRT_03.icon.png",
+    "canBeShiny": true,
+    "eventName": "Patterns of the Wild",
+    "eventSlug": "patterns-of-the-wild-2026",
+    "start": "2026-10-02T10:00:00",
+    "end": "2026-10-02T20:00:00"
+  },
+  {
+    "name": "Oddish",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_043_00.png",
+    "canBeShiny": true,
+    "eventName": "Patterns of the Wild",
+    "eventSlug": "patterns-of-the-wild-2026",
+    "start": "2026-10-02T10:00:00",
+    "end": "2026-10-02T20:00:00"
+  },
+  {
+    "name": "Gloom",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_044_00.png",
+    "canBeShiny": true,
+    "eventName": "Patterns of the Wild",
+    "eventSlug": "patterns-of-the-wild-2026",
+    "start": "2026-10-02T10:00:00",
+    "end": "2026-10-02T20:00:00"
+  },
+  {
+    "name": "Bellsprout",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_069_00.png",
+    "canBeShiny": true,
+    "eventName": "Patterns of the Wild",
+    "eventSlug": "patterns-of-the-wild-2026",
+    "start": "2026-10-02T10:00:00",
+    "end": "2026-10-02T20:00:00"
+  },
+  {
+    "name": "Ledyba",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_165_00.png",
+    "canBeShiny": true,
+    "eventName": "Patterns of the Wild",
+    "eventSlug": "patterns-of-the-wild-2026",
+    "start": "2026-10-02T10:00:00",
+    "end": "2026-10-02T20:00:00"
+  },
+  {
+    "name": "Ledian",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_166_00.png",
+    "canBeShiny": true,
+    "eventName": "Patterns of the Wild",
+    "eventSlug": "patterns-of-the-wild-2026",
+    "start": "2026-10-02T10:00:00",
+    "end": "2026-10-02T20:00:00"
+  },
+  {
+    "name": "Hoppip",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+    "canBeShiny": true,
+    "eventName": "Patterns of the Wild",
+    "eventSlug": "patterns-of-the-wild-2026",
+    "start": "2026-10-02T10:00:00",
+    "end": "2026-10-02T20:00:00"
+  },
+  {
+    "name": "Skiploom",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_188_00.png",
+    "canBeShiny": true,
+    "eventName": "Patterns of the Wild",
+    "eventSlug": "patterns-of-the-wild-2026",
+    "start": "2026-10-02T10:00:00",
+    "end": "2026-10-02T20:00:00"
+  },
+  {
+    "name": "Sunkern",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_191_00.png",
+    "canBeShiny": true,
+    "eventName": "Patterns of the Wild",
+    "eventSlug": "patterns-of-the-wild-2026",
+    "start": "2026-10-02T10:00:00",
+    "end": "2026-10-02T20:00:00"
+  },
+  {
+    "name": "Wurmple",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00.png",
+    "canBeShiny": true,
+    "eventName": "Patterns of the Wild",
+    "eventSlug": "patterns-of-the-wild-2026",
+    "start": "2026-10-02T10:00:00",
+    "end": "2026-10-02T20:00:00"
+  },
+  {
+    "name": "Skwovet",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm819.icon.png",
+    "canBeShiny": true,
+    "eventName": "Harvest Festival 2026: Applin Picking",
+    "eventSlug": "harvest-festival-2026",
+    "start": "2026-09-29T10:00:00",
+    "end": "2026-10-05T20:00:00"
+  },
+  {
+    "name": "Lechonk",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png",
+    "canBeShiny": true,
+    "eventName": "Harvest Festival 2026: Applin Picking",
+    "eventSlug": "harvest-festival-2026",
+    "start": "2026-09-29T10:00:00",
+    "end": "2026-10-05T20:00:00"
+  },
+  {
+    "name": "Smoliv",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm928.icon.png",
+    "canBeShiny": true,
+    "eventName": "Harvest Festival 2026: Applin Picking",
+    "eventSlug": "harvest-festival-2026",
+    "start": "2026-09-29T10:00:00",
+    "end": "2026-10-05T20:00:00"
+  },
+  {
+    "name": "Applin",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png",
+    "canBeShiny": true,
+    "eventName": "Harvest Festival 2026: Applin Picking",
+    "eventSlug": "harvest-festival-2026",
+    "start": "2026-09-29T10:00:00",
+    "end": "2026-10-05T20:00:00"
+  },
+  {
+    "name": "Koffing",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_109_00.png",
+    "canBeShiny": true,
+    "eventName": "Harvest Festival: Taken Over",
+    "eventSlug": "harvest-festival-taken-over-2026",
+    "start": "2026-10-02T00:00:00",
+    "end": "2026-10-05T20:00:00"
+  },
+  {
+    "name": "Slugma",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png",
+    "canBeShiny": true,
+    "eventName": "Harvest Festival: Taken Over",
+    "eventSlug": "harvest-festival-taken-over-2026",
+    "start": "2026-10-02T00:00:00",
+    "end": "2026-10-05T20:00:00"
+  },
+  {
+    "name": "Numel",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_322_00.png",
+    "canBeShiny": true,
+    "eventName": "Harvest Festival: Taken Over",
+    "eventSlug": "harvest-festival-taken-over-2026",
+    "start": "2026-10-02T00:00:00",
+    "end": "2026-10-05T20:00:00"
+  },
+  {
+    "name": "Magmar",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_126_00.png",
+    "canBeShiny": true,
+    "eventName": "Harvest Festival: Taken Over",
+    "eventSlug": "harvest-festival-taken-over-2026",
+    "start": "2026-10-02T00:00:00",
+    "end": "2026-10-05T20:00:00"
   }
 ]

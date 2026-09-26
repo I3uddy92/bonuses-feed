@@ -1,140 +1,5 @@
 [
   {
-    "name": "Charmander wearing Friede's goggles",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm4.fGOGGLES_2026.icon.png",
-    "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
-    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
-    "start": "2026-09-16T10:00:00",
-    "end": "2026-09-22T20:00:00"
-  },
-  {
-    "name": "Sprigatito",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm906.icon.png",
-    "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
-    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
-    "start": "2026-09-16T10:00:00",
-    "end": "2026-09-22T20:00:00"
-  },
-  {
-    "name": "Fuecoco",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm909.icon.png",
-    "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
-    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
-    "start": "2026-09-16T10:00:00",
-    "end": "2026-09-22T20:00:00"
-  },
-  {
-    "name": "Quaxly",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm912.icon.png",
-    "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
-    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
-    "start": "2026-09-16T10:00:00",
-    "end": "2026-09-22T20:00:00"
-  },
-  {
-    "name": "Fidough",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png",
-    "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
-    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
-    "start": "2026-09-16T10:00:00",
-    "end": "2026-09-22T20:00:00"
-  },
-  {
-    "name": "Wattrel",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm940.icon.png",
-    "canBeShiny": false,
-    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
-    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
-    "start": "2026-09-16T10:00:00",
-    "end": "2026-09-22T20:00:00"
-  },
-  {
-    "name": "Captain's Cap Pikachu",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fHORIZONS.icon.png",
-    "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
-    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
-    "start": "2026-09-16T10:00:00",
-    "end": "2026-09-22T20:00:00"
-  },
-  {
-    "name": "Chansey",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png",
-    "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
-    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
-    "start": "2026-09-16T10:00:00",
-    "end": "2026-09-22T20:00:00"
-  },
-  {
-    "name": "Rhyhorn",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_111_00.png",
-    "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
-    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
-    "start": "2026-09-16T10:00:00",
-    "end": "2026-09-22T20:00:00"
-  },
-  {
-    "name": "Eevee",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png",
-    "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
-    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
-    "start": "2026-09-16T10:00:00",
-    "end": "2026-09-22T20:00:00"
-  },
-  {
-    "name": "Hatenna",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm856.icon.png",
-    "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
-    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
-    "start": "2026-09-16T10:00:00",
-    "end": "2026-09-22T20:00:00"
-  },
-  {
-    "name": "Nacli",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm932.icon.png",
-    "canBeShiny": false,
-    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
-    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
-    "start": "2026-09-16T10:00:00",
-    "end": "2026-09-22T20:00:00"
-  },
-  {
-    "name": "Tinkatink",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png",
-    "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
-    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
-    "start": "2026-09-16T10:00:00",
-    "end": "2026-09-22T20:00:00"
-  },
-  {
-    "name": "Rockruff",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm744.icon.png",
-    "canBeShiny": true,
-    "eventName": "Pokémon Horizons: The Series Celebration Event 2026",
-    "eventSlug": "pokemon-horizons-the-series-celebration-event-2026",
-    "start": "2026-09-16T10:00:00",
-    "end": "2026-09-22T20:00:00"
-  },
-  {
-    "name": "Rattata",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_019_00.png",
-    "canBeShiny": true,
-    "eventName": "Rattata Spotlight Hour",
-    "eventSlug": "pokemonspotlighthour2026-09-24",
-    "start": "2026-09-24T18:00:00",
-    "end": "2026-09-24T19:00:00"
-  },
-  {
     "name": "Cherubi",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00.png",
     "canBeShiny": true,
@@ -151,6 +16,1266 @@
     "eventSlug": "catch-mastery-phantump-2026",
     "start": "2026-09-26T10:00:00",
     "end": "2026-09-26T20:00:00"
+  },
+  {
+    "name": "Jigglypuff",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Abra",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Slowpoke",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Totodile",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Mareep",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Marill",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Hoppip",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Unown B",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Unown L",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Unown M",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Unown R",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Stantler",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Miltank",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Wingull",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Baltoy",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Buizel",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Lillipup",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Petilil",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Yamask",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Gothita",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Orange Flower Flabébé",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Binacle",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Clauncher",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Hawlucha",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
+    "canBeShiny": false,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Mudbray",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Oranguru",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Komala",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
+    "canBeShiny": true,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Flamigo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
+    "canBeShiny": false,
+    "eventName": "Brisbane, Australia - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-brisbane-2026",
+    "start": "2026-09-26T00:00:00",
+    "end": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Jigglypuff",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Abra",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Slowpoke",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Totodile",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Mareep",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Marill",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Hoppip",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Unown B",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Unown L",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Unown M",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Unown R",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Stantler",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Miltank",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Wingull",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Baltoy",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Buizel",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Lillipup",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Petilil",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Yamask",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Gothita",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Orange Flower Flabébé",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Binacle",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Clauncher",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Hawlucha",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
+    "canBeShiny": false,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Mudbray",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Oranguru",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Komala",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
+    "canBeShiny": true,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Flamigo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
+    "canBeShiny": false,
+    "eventName": "Marseille, France - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-marseille-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Jigglypuff",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Abra",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Slowpoke",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Totodile",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Mareep",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Marill",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Hoppip",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Unown B",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Unown L",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Unown M",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Unown R",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Stantler",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Miltank",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Wingull",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Baltoy",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Buizel",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Lillipup",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Petilil",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Yamask",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Gothita",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Orange Flower Flabébé",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Binacle",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Clauncher",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Hawlucha",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
+    "canBeShiny": false,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Mudbray",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Oranguru",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Komala",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
+    "canBeShiny": true,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Flamigo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
+    "canBeShiny": false,
+    "eventName": "Munich, Germany - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-munich-2026",
+    "start": "2026-09-26T08:00:00",
+    "end": "2026-09-27T16:00:00"
+  },
+  {
+    "name": "Jigglypuff",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Abra",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Slowpoke",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Totodile",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Mareep",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Marill",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Hoppip",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Unown B",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Unown L",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Unown M",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Unown R",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Stantler",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Miltank",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Wingull",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Baltoy",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Buizel",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Lillipup",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Petilil",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Yamask",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Gothita",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Orange Flower Flabébé",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Binacle",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Clauncher",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Hawlucha",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
+    "canBeShiny": false,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Mudbray",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Oranguru",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Komala",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
+    "canBeShiny": true,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Flamigo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
+    "canBeShiny": false,
+    "eventName": "Lisbon, Portugal - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-lisbon-2026",
+    "start": "2026-09-26T09:00:00",
+    "end": "2026-09-27T17:00:00"
+  },
+  {
+    "name": "Jigglypuff",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Abra",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Slowpoke",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Totodile",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Mareep",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Marill",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Hoppip",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Unown B",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Unown L",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Unown M",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Unown R",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Stantler",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Miltank",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Wingull",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Baltoy",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Buizel",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Lillipup",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Petilil",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Yamask",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Gothita",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Orange Flower Flabébé",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Binacle",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Clauncher",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Hawlucha",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
+    "canBeShiny": false,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Mudbray",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Oranguru",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Komala",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
+    "canBeShiny": true,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
+  },
+  {
+    "name": "Flamigo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
+    "canBeShiny": false,
+    "eventName": "Rio de Janeiro, Brazil - Pokémon GO City Safari",
+    "eventSlug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+    "start": "2026-09-26T13:00:00",
+    "end": "2026-09-27T21:00:00"
   },
   {
     "name": "Seedot",
@@ -331,5 +1456,23 @@
     "eventSlug": "harvest-festival-taken-over-2026",
     "start": "2026-10-02T00:00:00",
     "end": "2026-10-05T20:00:00"
+  },
+  {
+    "name": "Elgyem",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_605_00.png",
+    "canBeShiny": true,
+    "eventName": "Elgyem Spotlight Hour",
+    "eventSlug": "pokemonspotlighthour2026-10-08",
+    "start": "2026-10-08T18:00:00",
+    "end": "2026-10-08T19:00:00"
+  },
+  {
+    "name": "Zorua",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png",
+    "canBeShiny": true,
+    "eventName": "Zorua Community Day",
+    "eventSlug": "october-communityday2026",
+    "start": "2026-10-10T14:00:00",
+    "end": "2026-10-10T17:00:00"
   }
 ]

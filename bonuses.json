@@ -1,167 +1,5 @@
 [
   {
-    "text": "Max Particle collection limit increased to 1,600",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticles.png",
-    "eventName": "Gigantamax Cinderace Max Battle Day",
-    "eventSlug": "gigantamax-cinderace-max-battle-day-2026",
-    "start": "2026-10-03T14:00:00",
-    "end": "2026-10-03T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "All Power Spots will host Gigantamax Battles",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/powerspot.png",
-    "eventName": "Gigantamax Cinderace Max Battle Day",
-    "eventSlug": "gigantamax-cinderace-max-battle-day-2026",
-    "start": "2026-10-03T14:00:00",
-    "end": "2026-10-03T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Power Spots will refresh more frequently",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/powerspot.png",
-    "eventName": "Gigantamax Cinderace Max Battle Day",
-    "eventSlug": "gigantamax-cinderace-max-battle-day-2026",
-    "start": "2026-10-03T14:00:00",
-    "end": "2026-10-03T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Additional Power Spots will be active",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/powerspot.png",
-    "eventName": "Gigantamax Cinderace Max Battle Day",
-    "eventSlug": "gigantamax-cinderace-max-battle-day-2026",
-    "start": "2026-10-03T14:00:00",
-    "end": "2026-10-03T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "8× Max Particles from Power Spots",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
-    "eventName": "Gigantamax Cinderace Max Battle Day",
-    "eventSlug": "gigantamax-cinderace-max-battle-day-2026",
-    "start": "2026-10-03T14:00:00",
-    "end": "2026-10-03T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Up to three Special Trades for the day",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/trade.png",
-    "eventName": "Gigantamax Cinderace Max Battle Day",
-    "eventSlug": "gigantamax-cinderace-max-battle-day-2026",
-    "start": "2026-10-03T14:00:00",
-    "end": "2026-10-03T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "From October 2 at 5:00 p.m. to October 3 at 8:00 p.m. PDT (GMT −7), the daily Remote Raid limit will increase from 10 to 20",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
-    "eventName": "Gigantamax Cinderace Max Battle Day",
-    "eventSlug": "gigantamax-cinderace-max-battle-day-2026",
-    "start": "2026-10-03T14:00:00",
-    "end": "2026-10-03T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "2× Max Particles from exploring",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
-    "eventName": "Gigantamax Cinderace Max Battle Day",
-    "eventSlug": "gigantamax-cinderace-max-battle-day-2026",
-    "start": "2026-10-03T14:00:00",
-    "end": "2026-10-03T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "1/4 Adventuring distance to receive Max Particles",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
-    "eventName": "Gigantamax Cinderace Max Battle Day",
-    "eventSlug": "gigantamax-cinderace-max-battle-day-2026",
-    "start": "2026-10-03T14:00:00",
-    "end": "2026-10-03T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "2× XP from Max Battles",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
-    "eventName": "Gigantamax Cinderace Max Battle Day",
-    "eventSlug": "gigantamax-cinderace-max-battle-day-2026",
-    "start": "2026-10-03T14:00:00",
-    "end": "2026-10-03T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Increased chance to encounter Shiny Smoliv",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
-    "eventName": "Harvest Festival 2026: Applin Picking",
-    "eventSlug": "harvest-festival-2026",
-    "start": "2026-09-29T10:00:00",
-    "end": "2026-10-05T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Applin will have an increased chance of holding Tart Apples, Sweet Apples, or Syrupy Apples when caught",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
-    "eventName": "Harvest Festival 2026: Applin Picking",
-    "eventSlug": "harvest-festival-2026",
-    "start": "2026-09-29T10:00:00",
-    "end": "2026-10-05T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Mossy Lure Modules activated during the event will last for one hour",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/mossylure.png",
-    "eventName": "Harvest Festival 2026: Applin Picking",
-    "eventSlug": "harvest-festival-2026",
-    "start": "2026-09-29T10:00:00",
-    "end": "2026-10-05T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "More Stardust from defeating Team GO Rocket Grunts and Leaders",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
-    "eventName": "Harvest Festival 2026: Applin Picking",
-    "eventSlug": "harvest-festival-2026",
-    "start": "2026-09-29T10:00:00",
-    "end": "2026-10-05T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Increased chance to encounter Shiny Slugma",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
-    "eventName": "Harvest Festival: Taken Over",
-    "eventSlug": "harvest-festival-taken-over-2026",
-    "start": "2026-10-02T00:00:00",
-    "end": "2026-10-05T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "More Team GO Rocket appearances at PokéStops and balloons appearing every 2 hours",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/rocketlogo.png",
-    "eventName": "Harvest Festival: Taken Over",
-    "eventSlug": "harvest-festival-taken-over-2026",
-    "start": "2026-10-02T00:00:00",
-    "end": "2026-10-05T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Use a Charged TM to remove Frustration from Shadow Pokémon",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/chargetm.png",
-    "eventName": "Harvest Festival: Taken Over",
-    "eventSlug": "harvest-festival-taken-over-2026",
-    "start": "2026-10-02T00:00:00",
-    "end": "2026-10-05T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Wider Attack, Defense, and HP variance for Pokémon caught in one-star and three-star Shadow Raids during the event",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
-    "eventName": "Harvest Festival: Taken Over",
-    "eventSlug": "harvest-festival-taken-over-2026",
-    "start": "2026-10-02T00:00:00",
-    "end": "2026-10-05T20:00:00",
-    "rotating": false
-  },
-  {
     "text": "+1 Bonbon beim Tauschen (ab Rang 1)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
     "eventName": "GO Pass: September",
@@ -348,6 +186,24 @@
     "eventSlug": "fall-marathon-buddy-trek-2026",
     "start": "2026-10-13T10:00:00",
     "end": "2026-10-19T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased Stardust for catching Minior",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Minior Showers: Orionids 2026",
+    "eventSlug": "minior-showers-orionids-2026",
+    "start": "2026-10-19T17:00:00",
+    "end": "2026-10-24T23:59:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/wildgrass.png",
+    "eventName": "Minior Showers: Orionids 2026",
+    "eventSlug": "minior-showers-orionids-2026",
+    "start": "2026-10-19T17:00:00",
+    "end": "2026-10-24T23:59:00",
     "rotating": false
   },
   {

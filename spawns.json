@@ -1,23 +1,5 @@
 [
   {
-    "name": "Elgyem",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_605_00.png",
-    "canBeShiny": true,
-    "eventName": "Elgyem Spotlight Hour",
-    "eventSlug": "pokemonspotlighthour2026-10-08",
-    "start": "2026-10-08T18:00:00",
-    "end": "2026-10-08T19:00:00"
-  },
-  {
-    "name": "Zorua",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png",
-    "canBeShiny": true,
-    "eventName": "Zorua Community Day",
-    "eventSlug": "october-communityday2026",
-    "start": "2026-10-10T14:00:00",
-    "end": "2026-10-10T17:00:00"
-  },
-  {
     "name": "Stufful",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm759.icon.png",
     "canBeShiny": true,
@@ -133,6 +115,15 @@
     "eventSlug": "fall-marathon-buddy-trek-2026",
     "start": "2026-10-13T10:00:00",
     "end": "2026-10-19T20:00:00"
+  },
+  {
+    "name": "Morelull",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png",
+    "canBeShiny": true,
+    "eventName": "Morelull Spotlight Hour",
+    "eventSlug": "pokemonspotlighthour2026-10-22",
+    "start": "2026-10-22T18:00:00",
+    "end": "2026-10-22T19:00:00"
   },
   {
     "name": "Minior (Meteor Form)",

@@ -1,77 +1,5 @@
 [
   {
-    "text": "Increased Spawns",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/wildgrass.png",
-    "eventName": "Zorua Community Day",
-    "eventSlug": "october-communityday2026",
-    "start": "2026-10-10T14:00:00",
-    "end": "2026-10-10T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "3× Fang-XP",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
-    "eventName": "Zorua Community Day",
-    "eventSlug": "october-communityday2026",
-    "start": "2026-10-10T14:00:00",
-    "end": "2026-10-10T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "3-hour Incense",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/incense.png",
-    "eventName": "Zorua Community Day",
-    "eventSlug": "october-communityday2026",
-    "start": "2026-10-10T14:00:00",
-    "end": "2026-10-10T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "1-hour Lures",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/lure.png",
-    "eventName": "Zorua Community Day",
-    "eventSlug": "october-communityday2026",
-    "start": "2026-10-10T14:00:00",
-    "end": "2026-10-10T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "2× Fang-Bonbons",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
-    "eventName": "Zorua Community Day",
-    "eventSlug": "october-communityday2026",
-    "start": "2026-10-10T14:00:00",
-    "end": "2026-10-10T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "2x Chance for Trainers level 31 and up to receive Candy XL from catching Pokémon",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
-    "eventName": "Zorua Community Day",
-    "eventSlug": "october-communityday2026",
-    "start": "2026-10-10T14:00:00",
-    "end": "2026-10-10T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "One additional Special Trade can be made for a maximum of two for the day",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/trade.png",
-    "eventName": "Zorua Community Day",
-    "eventSlug": "october-communityday2026",
-    "start": "2026-10-10T14:00:00",
-    "end": "2026-10-10T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Trades made will require 50% less Stardust",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust2x.png",
-    "eventName": "Zorua Community Day",
-    "eventSlug": "october-communityday2026",
-    "start": "2026-10-10T14:00:00",
-    "end": "2026-10-10T17:00:00",
-    "rotating": false
-  },
-  {
     "text": "2× Candy from hatching Eggs",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
     "eventName": "Sandile Hatch Day",
@@ -132,6 +60,96 @@
     "eventSlug": "fall-marathon-buddy-trek-2026",
     "start": "2026-10-13T10:00:00",
     "end": "2026-10-19T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Max Particle collection limit increased to 1,600",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticles.png",
+    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
+    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
+    "start": "2026-10-24T14:00:00",
+    "end": "2026-10-24T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "All Power Spots will host Dynamax Battles",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/powerspot.png",
+    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
+    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
+    "start": "2026-10-24T14:00:00",
+    "end": "2026-10-24T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Power Spots will refresh more frequently",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/powerspot.png",
+    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
+    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
+    "start": "2026-10-24T14:00:00",
+    "end": "2026-10-24T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Additional Power Spots will be active",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/powerspot.png",
+    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
+    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
+    "start": "2026-10-24T14:00:00",
+    "end": "2026-10-24T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "8× Max Particles from Power Spots",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
+    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
+    "start": "2026-10-24T14:00:00",
+    "end": "2026-10-24T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Up to three Special Trades for the day",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/trade.png",
+    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
+    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
+    "start": "2026-10-24T14:00:00",
+    "end": "2026-10-24T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "From October 23 at 5:00 p.m. to October 24 at 8:00 p.m. PDT (GMT −7), the daily Remote Raid limit will increase from 10 to 20",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
+    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
+    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
+    "start": "2026-10-24T14:00:00",
+    "end": "2026-10-24T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Max Particles from exploring",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
+    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
+    "start": "2026-10-24T14:00:00",
+    "end": "2026-10-24T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "1/4 Adventuring distance to receive Max Particles",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
+    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
+    "start": "2026-10-24T14:00:00",
+    "end": "2026-10-24T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× XP from Max Battles",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
+    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
+    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
+    "start": "2026-10-24T14:00:00",
+    "end": "2026-10-24T17:00:00",
     "rotating": false
   },
   {

@@ -27,8 +27,26 @@
     "end": "2026-10-19T20:00:00"
   },
   {
+    "name": "Stantler",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png",
+    "canBeShiny": true,
+    "eventName": "Fall Marathon: Buddy Trek",
+    "eventSlug": "fall-marathon-buddy-trek-2026",
+    "start": "2026-10-13T10:00:00",
+    "end": "2026-10-19T20:00:00"
+  },
+  {
     "name": "Electrike",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png",
+    "canBeShiny": true,
+    "eventName": "Fall Marathon: Buddy Trek",
+    "eventSlug": "fall-marathon-buddy-trek-2026",
+    "start": "2026-10-13T10:00:00",
+    "end": "2026-10-19T20:00:00"
+  },
+  {
+    "name": "Cacnea",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_331_00.png",
     "canBeShiny": true,
     "eventName": "Fall Marathon: Buddy Trek",
     "eventSlug": "fall-marathon-buddy-trek-2026",

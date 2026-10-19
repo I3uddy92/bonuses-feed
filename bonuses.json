@@ -1,23 +1,5 @@
 [
   {
-    "text": "Incense (excluding Daily Adventure Incense) activated during the event lasts for two hours (ab Rang 10)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/incense.png",
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "5× Mega Energy from exploring with Electrike or Manectric as your buddy after Mega Evolving Manectric at least once (ab Rang 20)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/megaevolution.png",
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00",
-    "rotating": false
-  },
-  {
     "text": "Max Particle collection limit increased to 1,600",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticles.png",
     "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
@@ -105,6 +87,15 @@
     "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
     "start": "2026-10-24T14:00:00",
     "end": "2026-10-24T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Lure Modules activated during the event last for one hour, excluding Golden Lure Modules",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/luresall.png",
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59",
     "rotating": false
   },
   {

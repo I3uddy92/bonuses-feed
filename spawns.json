@@ -1,131 +1,5 @@
 [
   {
-    "name": "Ponyta",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png",
-    "canBeShiny": true,
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00"
-  },
-  {
-    "name": "Doduo",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_084_00.png",
-    "canBeShiny": true,
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00"
-  },
-  {
-    "name": "Stantler",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png",
-    "canBeShiny": true,
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00"
-  },
-  {
-    "name": "Electrike",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png",
-    "canBeShiny": true,
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00"
-  },
-  {
-    "name": "Cacnea",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_331_00.png",
-    "canBeShiny": true,
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00"
-  },
-  {
-    "name": "Blitzle",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_522_00.png",
-    "canBeShiny": true,
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00"
-  },
-  {
-    "name": "Skarmory",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png",
-    "canBeShiny": true,
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00"
-  },
-  {
-    "name": "Galarian Ponyta",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm77.fGALARIAN.icon.png",
-    "canBeShiny": true,
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00"
-  },
-  {
-    "name": "Hoppip",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
-    "canBeShiny": true,
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00"
-  },
-  {
-    "name": "Dwebble",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_557_00.png",
-    "canBeShiny": true,
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00"
-  },
-  {
-    "name": "Bramblin",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png",
-    "canBeShiny": false,
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00"
-  },
-  {
-    "name": "Hisuian Growlithe",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png",
-    "canBeShiny": true,
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00"
-  },
-  {
-    "name": "Nincada",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_290_00.png",
-    "canBeShiny": true,
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00"
-  },
-  {
-    "name": "Helioptile",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm694.icon.png",
-    "canBeShiny": true,
-    "eventName": "Fall Marathon: Buddy Trek",
-    "eventSlug": "fall-marathon-buddy-trek-2026",
-    "start": "2026-10-13T10:00:00",
-    "end": "2026-10-19T20:00:00"
-  },
-  {
     "name": "Morelull",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png",
     "canBeShiny": true,
@@ -133,6 +7,159 @@
     "eventSlug": "pokemonspotlighthour2026-10-22",
     "start": "2026-10-22T18:00:00",
     "end": "2026-10-22T19:00:00"
+  },
+  {
+    "name": "Gastly",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Voltorb",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_100_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Alolan Marowak",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_105_61.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Hoothoot",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Murkrow",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_198_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Houndour",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Electrike",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Carvanha",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Shinx",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_403_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Zorua",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Joltik",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Froakie",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Dedenne",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Rookidee",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Unown P",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_26.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Unown N",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_24.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
+  },
+  {
+    "name": "Unown O",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_25.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - Los Angeles",
+    "eventSlug": "pokemon-night-out-los-angeles-2026",
+    "start": "2026-10-25T02:30:00",
+    "end": "2026-10-25T06:59:59"
   },
   {
     "name": "Minior (Meteor Form)",

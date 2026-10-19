@@ -1,50 +1,5 @@
 [
   {
-    "text": "2× Candy from hatching Eggs",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
-    "eventName": "Sandile Hatch Day",
-    "eventSlug": "sandile-hatch-day-2026",
-    "start": "2026-10-17T11:00:00",
-    "end": "2026-10-17T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "1/2 Egg Hatch Distance",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/eggdistance.png",
-    "eventName": "Sandile Hatch Day",
-    "eventSlug": "sandile-hatch-day-2026",
-    "start": "2026-10-17T11:00:00",
-    "end": "2026-10-17T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Increased chance of hatching Shiny Sandile",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
-    "eventName": "Sandile Hatch Day",
-    "eventSlug": "sandile-hatch-day-2026",
-    "start": "2026-10-17T11:00:00",
-    "end": "2026-10-17T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Increased chance of receiving 2 km Eggs from spinning PokéStops",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/egg2km.png",
-    "eventName": "Sandile Hatch Day",
-    "eventSlug": "sandile-hatch-day-2026",
-    "start": "2026-10-17T11:00:00",
-    "end": "2026-10-17T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "1/4 Egg Hatch Distance",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/eggdistance.png",
-    "eventName": "Sandile Hatch Day",
-    "eventSlug": "sandile-hatch-day-2026",
-    "start": "2026-10-17T11:00:00",
-    "end": "2026-10-17T17:00:00",
-    "rotating": false
-  },
-  {
     "text": "Incense (excluding Daily Adventure Incense) activated during the event lasts for two hours (ab Rang 10)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/incense.png",
     "eventName": "Fall Marathon: Buddy Trek",
@@ -153,7 +108,7 @@
     "rotating": false
   },
   {
-    "text": "Increased Stardust for catching Minior",
+    "text": "1,000 Stardust for catching Minior",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
     "eventName": "Minior Showers: Orionids 2026",
     "eventSlug": "minior-showers-orionids-2026",
@@ -168,6 +123,168 @@
     "eventSlug": "minior-showers-orionids-2026",
     "start": "2026-10-19T17:00:00",
     "end": "2026-10-24T23:59:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased Shiny chance",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Pokémon GO City Safari: Boston (Rescheduled)",
+    "eventSlug": "pokemon-go-city-safari-boston-2026-rescheduled",
+    "start": "2026-10-24T10:00:00",
+    "end": "2026-10-25T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Four-hour Lure Modules (excluding Golden Lure Modules)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/luresall.png",
+    "eventName": "Pokémon GO City Safari: Boston (Rescheduled)",
+    "eventSlug": "pokemon-go-city-safari-boston-2026-rescheduled",
+    "start": "2026-10-24T10:00:00",
+    "end": "2026-10-25T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Up to five Special Trades",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/trade.png",
+    "eventName": "Pokémon GO City Safari: Boston (Rescheduled)",
+    "eventSlug": "pokemon-go-city-safari-boston-2026-rescheduled",
+    "start": "2026-10-24T10:00:00",
+    "end": "2026-10-25T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Half Stardust cost for trades",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/tradedevice.png",
+    "eventName": "Pokémon GO City Safari: Boston (Rescheduled)",
+    "eventSlug": "pokemon-go-city-safari-boston-2026-rescheduled",
+    "start": "2026-10-24T10:00:00",
+    "end": "2026-10-25T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Tiny Compass buddy souvenir",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Pokémon GO City Safari: Boston (Rescheduled)",
+    "eventSlug": "pokemon-go-city-safari-boston-2026-rescheduled",
+    "start": "2026-10-24T10:00:00",
+    "end": "2026-10-25T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Eight-hour Party Play",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Pokémon GO City Safari: Boston (Rescheduled)",
+    "eventSlug": "pokemon-go-city-safari-boston-2026-rescheduled",
+    "start": "2026-10-24T10:00:00",
+    "end": "2026-10-25T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Remote Raid limit increased to 20 from Friday, October 30, at 5:00 p.m. to Saturday, October 31, 2026, at 8:00 p.m. PDT",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
+    "eventName": "Chandelure Super Mega Raid Day",
+    "eventSlug": "chandelure-super-mega-raid-day-2026",
+    "start": "2026-10-31T14:00:00",
+    "end": "2026-10-31T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/freeraidpass.png",
+    "eventName": "Chandelure Super Mega Raid Day",
+    "eventSlug": "chandelure-super-mega-raid-day-2026",
+    "start": "2026-10-31T14:00:00",
+    "end": "2026-10-31T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Chandelure caught from Super Mega Raids will have Mega Level 1 unlocked",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/megaevolution.png",
+    "eventName": "Chandelure Super Mega Raid Day",
+    "eventSlug": "chandelure-super-mega-raid-day-2026",
+    "start": "2026-10-31T14:00:00",
+    "end": "2026-10-31T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance of encountering Shiny Chandelure from Super Mega Raids",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Chandelure Super Mega Raid Day",
+    "eventSlug": "chandelure-super-mega-raid-day-2026",
+    "start": "2026-10-31T14:00:00",
+    "end": "2026-10-31T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/freeraidpass.png",
+    "eventName": "Chandelure Super Mega Raid Day",
+    "eventSlug": "chandelure-super-mega-raid-day-2026",
+    "start": "2026-10-31T14:00:00",
+    "end": "2026-10-31T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance to get Rare Candy XL from Raid Battles",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/rarecandyxl.png",
+    "eventName": "Chandelure Super Mega Raid Day",
+    "eventSlug": "chandelure-super-mega-raid-day-2026",
+    "start": "2026-10-31T14:00:00",
+    "end": "2026-10-31T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "An additional 5,000 XP from Super Mega Raid Battles",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
+    "eventName": "Chandelure Super Mega Raid Day",
+    "eventSlug": "chandelure-super-mega-raid-day-2026",
+    "start": "2026-10-31T14:00:00",
+    "end": "2026-10-31T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "An additional 5,000 Stardust from Super Mega Raid Battles",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Chandelure Super Mega Raid Day",
+    "eventSlug": "chandelure-super-mega-raid-day-2026",
+    "start": "2026-10-31T14:00:00",
+    "end": "2026-10-31T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Fang-Bonbons",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Pokémon GO Halloween 2026 Part I",
+    "eventSlug": "halloween-2026-part-1",
+    "start": "2026-10-27T10:00:00",
+    "end": "2026-11-01T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "3× Fang-Bonbons (Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Pokémon GO Halloween 2026 Part I",
+    "eventSlug": "halloween-2026-part-1",
+    "start": "2026-10-27T10:00:00",
+    "end": "2026-11-01T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Fang-Sternenstaub",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Pokémon GO Halloween 2026 Part I",
+    "eventSlug": "halloween-2026-part-1",
+    "start": "2026-10-27T10:00:00",
+    "end": "2026-11-01T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "3× Fang-Sternenstaub (Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Pokémon GO Halloween 2026 Part I",
+    "eventSlug": "halloween-2026-part-1",
+    "start": "2026-10-27T10:00:00",
+    "end": "2026-11-01T10:00:00",
     "rotating": false
   },
   {
@@ -222,6 +339,42 @@
     "eventSlug": "go-pass-october-2026",
     "start": "2026-10-06T10:00:00",
     "end": "2026-11-03T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Fang-Bonbons",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Pokémon GO Halloween 2026 Part II",
+    "eventSlug": "halloween-2026-part-2",
+    "start": "2026-11-01T10:00:00",
+    "end": "2026-11-05T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "3× Fang-Bonbons (Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Pokémon GO Halloween 2026 Part II",
+    "eventSlug": "halloween-2026-part-2",
+    "start": "2026-11-01T10:00:00",
+    "end": "2026-11-05T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Fang-Sternenstaub",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Pokémon GO Halloween 2026 Part II",
+    "eventSlug": "halloween-2026-part-2",
+    "start": "2026-11-01T10:00:00",
+    "end": "2026-11-05T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "3× Fang-Sternenstaub (Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Pokémon GO Halloween 2026 Part II",
+    "eventSlug": "halloween-2026-part-2",
+    "start": "2026-11-01T10:00:00",
+    "end": "2026-11-05T20:00:00",
     "rotating": false
   },
   {

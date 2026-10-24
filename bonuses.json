@@ -1,95 +1,5 @@
 [
   {
-    "text": "Max Particle collection limit increased to 1,600",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticles.png",
-    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
-    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
-    "start": "2026-10-24T14:00:00",
-    "end": "2026-10-24T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "All Power Spots will host Dynamax Battles",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/powerspot.png",
-    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
-    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
-    "start": "2026-10-24T14:00:00",
-    "end": "2026-10-24T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Power Spots will refresh more frequently",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/powerspot.png",
-    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
-    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
-    "start": "2026-10-24T14:00:00",
-    "end": "2026-10-24T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Additional Power Spots will be active",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/powerspot.png",
-    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
-    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
-    "start": "2026-10-24T14:00:00",
-    "end": "2026-10-24T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "8× Max Particles from Power Spots",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
-    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
-    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
-    "start": "2026-10-24T14:00:00",
-    "end": "2026-10-24T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Up to three Special Trades for the day",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/trade.png",
-    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
-    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
-    "start": "2026-10-24T14:00:00",
-    "end": "2026-10-24T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "From October 23 at 5:00 p.m. to October 24 at 8:00 p.m. PDT (GMT −7), the daily Remote Raid limit will increase from 10 to 20",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
-    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
-    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
-    "start": "2026-10-24T14:00:00",
-    "end": "2026-10-24T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "2× Max Particles from exploring",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
-    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
-    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
-    "start": "2026-10-24T14:00:00",
-    "end": "2026-10-24T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "1/4 Adventuring distance to receive Max Particles",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
-    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
-    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
-    "start": "2026-10-24T14:00:00",
-    "end": "2026-10-24T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "2× XP from Max Battles",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
-    "eventName": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
-    "eventSlug": "dynamax-uxie-mesprit-azelf-max-battle-day-2026",
-    "start": "2026-10-24T14:00:00",
-    "end": "2026-10-24T17:00:00",
-    "rotating": false
-  },
-  {
     "text": "Lure Modules activated during the event last for one hour, excluding Golden Lure Modules",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/luresall.png",
     "eventName": "Pokémon Night Out 2026 - Los Angeles",
@@ -369,6 +279,294 @@
     "rotating": false
   },
   {
+    "text": "Increased chance to encounter Shiny Pokémon",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/eggdistance.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Up to 10 free Raid Passes per day from Gyms",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/freeraidpass.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "3/4 Max Particle cost for unlocking and powering up Max Moves",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Daily Max Particle collection limit increased to 8,000",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased Max Particles from Power Spots and exploration",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance of 10 km Eggs from PokéStops and Gyms",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/egg10km.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Lure Modules last for 2 hours",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/luresall.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Incense, excluding Daily Adventure Incense, lasts for 2 hours",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/incense.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Fang-Bonbons",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Party Play lasts for 8 hours",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Chance to encounter mighty Pokémon on Routes",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "3 GO Snapshot surprise encounters per day",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/camera.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Chance to get GO Safari Balls from PokéStops and Gyms",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/gosafariball.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Up to 6 Special Trades per day",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/trade.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "1/2 Stardust cost for trades",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance to encounter Shiny Pokémon",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/eggdistance.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Up to 10 free Raid Passes per day from Gyms",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/freeraidpass.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "3/4 Max Particle cost for unlocking and powering up Max Moves",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Daily Max Particle collection limit increased to 8,000",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased Max Particles from Power Spots and exploration",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance of 10 km Eggs from PokéStops and Gyms",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/egg10km.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Lure Modules last for 2 hours",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/luresall.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Incense, excluding Daily Adventure Incense, lasts for 2 hours",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/incense.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Fang-Bonbons",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Party Play lasts for 8 hours",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Chance to encounter mighty Pokémon on Routes",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "3 GO Snapshot surprise encounters per day",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/camera.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Chance to get GO Safari Balls from PokéStops and Gyms",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/gosafariball.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Up to 6 Special Trades per day",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/trade.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "1/2 Stardust cost for trades",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
     "text": "One guaranteed Candy XL when trading Pokémon for Trainers level 31 and above (ab Rang 1)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
     "eventName": "Twilight Trails",
@@ -410,6 +608,60 @@
     "eventName": "Twilight Trails",
     "eventSlug": "season-24-twilight-trails",
     "start": "2026-09-08T10:00:00",
+    "end": "2026-12-01T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "+1 Bonbon beim Tauschen (ab Rang 1)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "GO Pass: November",
+    "eventSlug": "go-pass-november-2026",
+    "start": "2026-11-03T10:00:00",
+    "end": "2026-12-01T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Garantiertes Bonbon XL ab Level 31 (Tausch) (ab Rang 1)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
+    "eventName": "GO Pass: November",
+    "eventSlug": "go-pass-november-2026",
+    "start": "2026-11-03T10:00:00",
+    "end": "2026-12-01T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Abenteuer-Rauch-Dauer (ab Rang 50)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/dailyincense.png",
+    "eventName": "GO Pass: November",
+    "eventSlug": "go-pass-november-2026",
+    "start": "2026-11-03T10:00:00",
+    "end": "2026-12-01T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Erhöhte Schlüpf-XP/-Staub (ab Rang 75)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust2xhatch.png",
+    "eventName": "GO Pass: November",
+    "eventSlug": "go-pass-november-2026",
+    "start": "2026-11-03T10:00:00",
+    "end": "2026-12-01T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Geschenke: 40/Tag öffnen, +10 Taschenplätze (ab Rang 25)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
+    "eventName": "GO Pass: November",
+    "eventSlug": "go-pass-november-2026",
+    "start": "2026-11-03T10:00:00",
+    "end": "2026-12-01T10:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Geschenke: 50/Tag öffnen, +20 Taschenplätze (ab Rang 25, Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
+    "eventName": "GO Pass: November",
+    "eventSlug": "go-pass-november-2026",
+    "start": "2026-11-03T10:00:00",
     "end": "2026-12-01T10:00:00",
     "rotating": false
   }

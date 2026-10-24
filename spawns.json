@@ -1,14 +1,5 @@
 [
   {
-    "name": "Morelull",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png",
-    "canBeShiny": true,
-    "eventName": "Morelull Spotlight Hour",
-    "eventSlug": "pokemonspotlighthour2026-10-22",
-    "start": "2026-10-22T18:00:00",
-    "end": "2026-10-22T19:00:00"
-  },
-  {
     "name": "Gastly",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
     "canBeShiny": true,
@@ -459,6 +450,15 @@
     "end": "2026-11-01T10:00:00"
   },
   {
+    "name": "Teddiursa wearing a witch hat",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm216.cHALLOWEEN_2025.icon.png",
+    "canBeShiny": true,
+    "eventName": "Teddiursa wearing a witch hat Spotlight Hour",
+    "eventSlug": "pokemonspotlighthour2026-11-05",
+    "start": "2026-11-05T18:00:00",
+    "end": "2026-11-05T19:00:00"
+  },
+  {
     "name": "Litwick",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_607_00.png",
     "canBeShiny": false,
@@ -493,5 +493,1391 @@
     "eventSlug": "halloween-2026-part-2",
     "start": "2026-11-01T10:00:00",
     "end": "2026-11-05T20:00:00"
+  },
+  {
+    "name": "Alolan Sandshrew",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_027_61.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Alolan Diglett",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_61.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Magnemite",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Shellder",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_090_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Onix",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_095_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Porygon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_137_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Shuckle",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_213_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Skarmory",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Nosepass",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_299_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Aron",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Beldum",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Piplup",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Shieldon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_410_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Bronzor",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_436_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Lucario",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Drilbur",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Ferroseed",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_597_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Klink",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_599_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Galarian Stunfisk",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png",
+    "canBeShiny": false,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Durant",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_632_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Hisuian Sliggoo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm705.fHISUIAN.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Rookidee",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Tinkatink",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Orthworm",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm968.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Charmander",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Magikarp",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Dratini",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Gligar",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_207_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Trapinch",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_328_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Swablu",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_333_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Barboach",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_339_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Bagon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Gible",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Tynamo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_602_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Axew",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_610_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Heatmor",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_631_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Deino",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Skrelp",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_690_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Tyrunt",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm696.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Amaura",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm698.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Goomy",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Noibat",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Turtonator",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm776.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Jangmo-o",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm782.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Applin",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Sizzlipede",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Frigibax",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Modern Jacket Machamp",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_068_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Alolan Exeggutor",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_103_61.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Lapras",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Azumarill",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_184_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Scizor",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_212_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Kingdra",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_230_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Aggron",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_306_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Flygon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_330_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Walrein",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_365_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Metagross",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_376_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Empoleon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Bastiodon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_411_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Magnezone",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_462_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Conkeldurr",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_534_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Ferrothorn",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_598_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Haxorus",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_612_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Hydreigon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Goodra",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_706_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Noivern",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_715_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Kommo-o",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm784.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Tinkaton",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm959.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Clodsire",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm980.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Unown A",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_11.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Unown D",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_14.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Unown E",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_15.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Unown I",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_19.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Unown N",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_24.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Unown S",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_29.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Latias",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_380_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Latios",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_381_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
+    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
+    "start": "2026-11-06T01:00:00",
+    "end": "2026-11-08T09:00:00"
+  },
+  {
+    "name": "Alolan Sandshrew",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_027_61.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Alolan Diglett",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_61.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Magnemite",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Shellder",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_090_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Onix",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_095_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Porygon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_137_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Shuckle",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_213_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Skarmory",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Nosepass",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_299_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Aron",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Beldum",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Piplup",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Shieldon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_410_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Bronzor",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_436_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Lucario",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Drilbur",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Ferroseed",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_597_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Klink",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_599_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Galarian Stunfisk",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png",
+    "canBeShiny": false,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Durant",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_632_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Hisuian Sliggoo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm705.fHISUIAN.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Rookidee",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Tinkatink",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Orthworm",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm968.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Charmander",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Magikarp",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Dratini",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Gligar",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_207_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Trapinch",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_328_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Swablu",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_333_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Barboach",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_339_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Bagon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Gible",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Tynamo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_602_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Axew",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_610_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Heatmor",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_631_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Deino",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Skrelp",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_690_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Tyrunt",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm696.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Amaura",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm698.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Goomy",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Noibat",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Turtonator",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm776.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Jangmo-o",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm782.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Applin",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Sizzlipede",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Frigibax",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Modern Jacket Machamp",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_068_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Alolan Exeggutor",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_103_61.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Azumarill",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_184_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Scizor",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_212_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Kingdra",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_230_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Aggron",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_306_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Flygon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_330_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Walrein",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_365_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Metagross",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_376_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Empoleon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Bastiodon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_411_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Magnezone",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_462_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Conkeldurr",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_534_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Ferrothorn",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_598_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Haxorus",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_612_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Hydreigon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Hawlucha",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Goodra",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_706_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Noivern",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_715_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Kommo-o",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm784.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Tinkaton",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm959.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Clodsire",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm980.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Unown C",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_13.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Unown E",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_15.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Unown I",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_19.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Unown M",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Unown O",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_25.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Unown X",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_34.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Latias",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_380_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Latios",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_381_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Mexico City",
+    "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-09T00:00:00"
   }
 ]

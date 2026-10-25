@@ -1,59 +1,5 @@
 [
   {
-    "text": "Increased Shiny chance",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
-    "eventName": "Pokémon GO City Safari: Boston (Rescheduled)",
-    "eventSlug": "pokemon-go-city-safari-boston-2026-rescheduled",
-    "start": "2026-10-24T10:00:00",
-    "end": "2026-10-25T18:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Four-hour Lure Modules (excluding Golden Lure Modules)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/luresall.png",
-    "eventName": "Pokémon GO City Safari: Boston (Rescheduled)",
-    "eventSlug": "pokemon-go-city-safari-boston-2026-rescheduled",
-    "start": "2026-10-24T10:00:00",
-    "end": "2026-10-25T18:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Up to five Special Trades",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/trade.png",
-    "eventName": "Pokémon GO City Safari: Boston (Rescheduled)",
-    "eventSlug": "pokemon-go-city-safari-boston-2026-rescheduled",
-    "start": "2026-10-24T10:00:00",
-    "end": "2026-10-25T18:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Half Stardust cost for trades",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/tradedevice.png",
-    "eventName": "Pokémon GO City Safari: Boston (Rescheduled)",
-    "eventSlug": "pokemon-go-city-safari-boston-2026-rescheduled",
-    "start": "2026-10-24T10:00:00",
-    "end": "2026-10-25T18:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Tiny Compass buddy souvenir",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
-    "eventName": "Pokémon GO City Safari: Boston (Rescheduled)",
-    "eventSlug": "pokemon-go-city-safari-boston-2026-rescheduled",
-    "start": "2026-10-24T10:00:00",
-    "end": "2026-10-25T18:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Eight-hour Party Play",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
-    "eventName": "Pokémon GO City Safari: Boston (Rescheduled)",
-    "eventSlug": "pokemon-go-city-safari-boston-2026-rescheduled",
-    "start": "2026-10-24T10:00:00",
-    "end": "2026-10-25T18:00:00",
-    "rotating": false
-  },
-  {
     "text": "Remote Raid limit increased to 20 from Friday, October 30, at 5:00 p.m. to Saturday, October 31, 2026, at 8:00 p.m. PDT",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
     "eventName": "Chandelure Super Mega Raid Day",

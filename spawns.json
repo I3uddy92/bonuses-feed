@@ -153,15 +153,6 @@
     "end": "2026-10-25T06:59:59"
   },
   {
-    "name": "Minior (Meteor Form)",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_000_uk_n_00000000_f_n.png",
-    "canBeShiny": false,
-    "eventName": "Minior Showers: Orionids 2026",
-    "eventSlug": "minior-showers-orionids-2026",
-    "start": "2026-10-19T17:00:00",
-    "end": "2026-10-24T23:59:00"
-  },
-  {
     "name": "Jigglypuff",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png",
     "canBeShiny": true,

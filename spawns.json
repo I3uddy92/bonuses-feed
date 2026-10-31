@@ -1,16 +1,34 @@
 [
   {
-    "name": "Gastly",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
-    "canBeShiny": true,
-    "eventName": "Gastly Spotlight Hour",
-    "eventSlug": "pokemonspotlighthour2026-10-29",
-    "start": "2026-10-29T18:00:00",
-    "end": "2026-10-29T19:00:00"
+    "name": "Zubat wearing a top hat",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm41.fHALLOWEEN_2026_01.icon.png",
+    "canBeShiny": false,
+    "eventName": "Pokémon GO Halloween 2026 Part I",
+    "eventSlug": "halloween-2026-part-1",
+    "start": "2026-10-27T10:00:00",
+    "end": "2026-11-01T10:00:00"
   },
   {
-    "name": "Zubat wearing a top hat",
-    "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/zubat-top-hat.png",
+    "name": "Piplup wearing a Halloween Mischief costume",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm393.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+    "canBeShiny": false,
+    "eventName": "Pokémon GO Halloween 2026 Part I",
+    "eventSlug": "halloween-2026-part-1",
+    "start": "2026-10-27T10:00:00",
+    "end": "2026-11-01T10:00:00"
+  },
+  {
+    "name": "Noibat wearing a headband",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm714.cHALLOWEEN_2025.icon.png",
+    "canBeShiny": false,
+    "eventName": "Pokémon GO Halloween 2026 Part I",
+    "eventSlug": "halloween-2026-part-1",
+    "start": "2026-10-27T10:00:00",
+    "end": "2026-11-01T10:00:00"
+  },
+  {
+    "name": "Pumpkaboo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.icon.png",
     "canBeShiny": false,
     "eventName": "Pokémon GO Halloween 2026 Part I",
     "eventSlug": "halloween-2026-part-1",
@@ -27,8 +45,35 @@
     "end": "2026-11-01T10:00:00"
   },
   {
-    "name": "Piplup wearing a Halloween Mischief costume",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm393.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+    "name": "Misdreavus",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_200_00.png",
+    "canBeShiny": false,
+    "eventName": "Pokémon GO Halloween 2026 Part I",
+    "eventSlug": "halloween-2026-part-1",
+    "start": "2026-10-27T10:00:00",
+    "end": "2026-11-01T10:00:00"
+  },
+  {
+    "name": "Drifblim wearing a Halloween Mischief costume",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm426.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+    "canBeShiny": false,
+    "eventName": "Pokémon GO Halloween 2026 Part I",
+    "eventSlug": "halloween-2026-part-1",
+    "start": "2026-10-27T10:00:00",
+    "end": "2026-11-01T10:00:00"
+  },
+  {
+    "name": "Vulpix wearing a Spooky Festival costume",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.cFALL_2022.icon.png",
+    "canBeShiny": false,
+    "eventName": "Pokémon GO Halloween 2026 Part I",
+    "eventSlug": "halloween-2026-part-1",
+    "start": "2026-10-27T10:00:00",
+    "end": "2026-11-01T10:00:00"
+  },
+  {
+    "name": "Gengar wearing a Tricks & Treats costume",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.cFALL_2023_NOEVOLVE.icon.png",
     "canBeShiny": false,
     "eventName": "Pokémon GO Halloween 2026 Part I",
     "eventSlug": "halloween-2026-part-1",
@@ -1465,5 +1510,806 @@
     "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
     "start": "2026-11-06T16:00:00",
     "end": "2026-11-09T00:00:00"
+  },
+  {
+    "name": "Gastly",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Voltorb",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_100_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Alolan Marowak",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_105_61.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Hoothoot",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Murkrow",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_198_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Houndour",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Electrike",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Carvanha",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Shinx",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_403_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Zorua",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Joltik",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Froakie",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Dedenne",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Rookidee",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Unown P",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_26.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Unown N",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_24.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Unown O",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_25.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00"
+  },
+  {
+    "name": "Magnemite",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png",
+    "canBeShiny": true,
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00"
+  },
+  {
+    "name": "Noibat",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
+    "canBeShiny": true,
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00"
+  },
+  {
+    "name": "Togedemaru",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm777.icon.png",
+    "canBeShiny": true,
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00"
+  },
+  {
+    "name": "Alolan Sandshrew",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_027_61.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Alolan Diglett",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_61.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Magnemite",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Shellder",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_090_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Onix",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_095_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Porygon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_137_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Shuckle",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_213_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Skarmory",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Nosepass",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_299_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Aron",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Beldum",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Piplup",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Shieldon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_410_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Bronzor",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_436_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Lucario",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Drilbur",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Ferroseed",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_597_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Klink",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_599_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Galarian Stunfisk",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png",
+    "canBeShiny": false,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Durant",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_632_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Rookidee",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Tinkatink",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Charmander",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Magikarp",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Dratini",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Gligar",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_207_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Trapinch",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_328_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Swablu",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_333_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Barboach",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_339_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Bagon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Gible",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Tynamo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_602_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Axew",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_610_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Heatmor",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_631_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Deino",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Skrelp",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_690_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Tyrunt",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm696.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Amaura",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm698.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Goomy",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Noibat",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Turtonator",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm776.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Jangmo-o",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm782.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Sizzlipede",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Frigibax",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Alolan Exeggutor",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_103_61.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Scizor",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_212_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Flygon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_330_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Walrein",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_365_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Metagross",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_376_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Empoleon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Magnezone",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_462_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Conkeldurr",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_534_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Haxorus",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_612_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Azumarill",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_184_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Kingdra",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_230_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Aggron",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_306_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Ferrothorn",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_598_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Hydreigon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Goodra",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_706_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Noivern",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_715_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Tinkaton",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm959.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Clodsire",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm980.icon.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Unown D",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_14.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Unown I",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_19.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Unown L",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Unown W",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_33.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Latias",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_380_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Latios",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_381_00.png",
+    "canBeShiny": true,
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00"
+  },
+  {
+    "name": "Minior (Meteor Form)",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0774_000_uk_n_00000000_f_n.png",
+    "canBeShiny": false,
+    "eventName": "Minior Showers: Leonids 2026",
+    "eventSlug": "minior-showers-leonids-2026",
+    "start": "2026-11-14T17:00:00",
+    "end": "2026-11-19T23:59:00"
   }
 ]

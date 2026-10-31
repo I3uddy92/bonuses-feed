@@ -1,77 +1,5 @@
 [
   {
-    "text": "Remote Raid limit increased to 20 from Friday, October 30, at 5:00 p.m. to Saturday, October 31, 2026, at 8:00 p.m. PDT",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
-    "eventName": "Chandelure Super Mega Raid Day",
-    "eventSlug": "chandelure-super-mega-raid-day-2026",
-    "start": "2026-10-31T14:00:00",
-    "end": "2026-10-31T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Receive up to six free Raid Passes from spinning Gym Photo Discs",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/freeraidpass.png",
-    "eventName": "Chandelure Super Mega Raid Day",
-    "eventSlug": "chandelure-super-mega-raid-day-2026",
-    "start": "2026-10-31T14:00:00",
-    "end": "2026-10-31T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Chandelure caught from Super Mega Raids will have Mega Level 1 unlocked",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/megaevolution.png",
-    "eventName": "Chandelure Super Mega Raid Day",
-    "eventSlug": "chandelure-super-mega-raid-day-2026",
-    "start": "2026-10-31T14:00:00",
-    "end": "2026-10-31T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Increased chance of encountering Shiny Chandelure from Super Mega Raids",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
-    "eventName": "Chandelure Super Mega Raid Day",
-    "eventSlug": "chandelure-super-mega-raid-day-2026",
-    "start": "2026-10-31T14:00:00",
-    "end": "2026-10-31T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/freeraidpass.png",
-    "eventName": "Chandelure Super Mega Raid Day",
-    "eventSlug": "chandelure-super-mega-raid-day-2026",
-    "start": "2026-10-31T14:00:00",
-    "end": "2026-10-31T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Increased chance to get Rare Candy XL from Raid Battles",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/rarecandyxl.png",
-    "eventName": "Chandelure Super Mega Raid Day",
-    "eventSlug": "chandelure-super-mega-raid-day-2026",
-    "start": "2026-10-31T14:00:00",
-    "end": "2026-10-31T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "An additional 5,000 XP from Super Mega Raid Battles",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
-    "eventName": "Chandelure Super Mega Raid Day",
-    "eventSlug": "chandelure-super-mega-raid-day-2026",
-    "start": "2026-10-31T14:00:00",
-    "end": "2026-10-31T17:00:00",
-    "rotating": false
-  },
-  {
-    "text": "An additional 5,000 Stardust from Super Mega Raid Battles",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
-    "eventName": "Chandelure Super Mega Raid Day",
-    "eventSlug": "chandelure-super-mega-raid-day-2026",
-    "start": "2026-10-31T14:00:00",
-    "end": "2026-10-31T17:00:00",
-    "rotating": false
-  },
-  {
     "text": "2× Fang-Bonbons",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
     "eventName": "Pokémon GO Halloween 2026 Part I",
@@ -483,6 +411,312 @@
     "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
     "start": "2026-11-06T16:00:00",
     "end": "2026-11-09T00:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Lure Modules activated during the event last for one hour, excluding Golden Lure Modules",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/luresall.png",
+    "eventName": "Pokémon Night Out 2026 - London",
+    "eventSlug": "pokemon-night-out-london-2026",
+    "start": "2026-11-10T18:00:00",
+    "end": "2026-11-10T22:30:00",
+    "rotating": false
+  },
+  {
+    "text": "Remote Raid limit increased to 30 from Monday, November 9, to Friday, November 13, 2026",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "No Remote Raid limit from Saturday, November 14, to Sunday, November 15, 2026",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Chance to encounter Shiny Gimmighoul when using a Coin Bag",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Chance to encounter Shiny Meltan when opening the Mystery Box",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/mysterybox.png",
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Reduced wait time before you can open the Mystery Box again",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/mysterybox.png",
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Trainers can receive special event stickers from PokéStops and Gifts",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "1/2 Hatch Distance for Eggs placed in Incubators during the event (ab Rang 25)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/eggdistance.png",
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "5,000 additional XP from completed raids (ab Rang 1, Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "5,000 additional XP from completed Max Battles (ab Rang 1, Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "3/4 Max Particle cost for unlocking and powering up Max Moves (ab Rang 2, Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "+1 Candy from raids (ab Rang 3, Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "+1 Candy XL from raids (Trainers level 31+) (ab Rang 3, Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "+1 Candy from Max Battles (ab Rang 3, Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "+1 Candy XL from Max Battles (Trainers level 31+) (ab Rang 3, Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
+    "eventName": "Into the Wild",
+    "eventSlug": "into-the-wild-2026",
+    "start": "2026-11-09T10:00:00",
+    "end": "2026-11-13T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Chance to get GO Safari Balls from PokéStops and Gyms",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/gosafariball.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Up to 3 free Raid Passes per day from Gyms",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/freeraidpass.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Daily Max Particle collection limit increased to 1,600",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "3 GO Snapshot surprise encounters per day",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/camera.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Party Play lasts for 8 hours",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Chance to encounter mighty Pokémon on Routes",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance to encounter Shiny Pokémon",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Daily Max Particle collection limit increased to 3,200",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased Max Particles from Power Spots and exploration",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Up to 6 free Raid Passes per day from Gyms",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/freeraidpass.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Fang-Bonbons",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Rauch-Dauer",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/incense.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance of 10 km Eggs from PokéStops and Gyms",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/egg10km.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "6 GO Snapshot surprise encounters per day",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/camera.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Lure Modules last for 2 hours",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/luresall.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Up to 6 Special Trades per day",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/trade.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "1/2 Stardust cost for trades",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Pokémon GO Wild Area 2026: Global",
+    "eventSlug": "pokemon-go-wild-area-2026-global",
+    "start": "2026-11-14T10:00:00",
+    "end": "2026-11-15T18:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased Stardust for catching Minior",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Minior Showers: Leonids 2026",
+    "eventSlug": "minior-showers-leonids-2026",
+    "start": "2026-11-14T17:00:00",
+    "end": "2026-11-19T23:59:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/wildgrass.png",
+    "eventName": "Minior Showers: Leonids 2026",
+    "eventSlug": "minior-showers-leonids-2026",
+    "start": "2026-11-14T17:00:00",
+    "end": "2026-11-19T23:59:00",
     "rotating": false
   },
   {

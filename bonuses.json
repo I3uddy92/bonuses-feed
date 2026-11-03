@@ -1,59 +1,5 @@
 [
   {
-    "text": "+1 Bonbon beim Tauschen (ab Rang 1)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
-    "eventName": "GO Pass: October",
-    "eventSlug": "go-pass-october-2026",
-    "start": "2026-10-06T10:00:00",
-    "end": "2026-11-03T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Garantiertes Bonbon XL ab Level 31 (Tausch) (ab Rang 1)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
-    "eventName": "GO Pass: October",
-    "eventSlug": "go-pass-october-2026",
-    "start": "2026-10-06T10:00:00",
-    "end": "2026-11-03T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "2× Abenteuer-Rauch-Dauer (ab Rang 50)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/dailyincense.png",
-    "eventName": "GO Pass: October",
-    "eventSlug": "go-pass-october-2026",
-    "start": "2026-10-06T10:00:00",
-    "end": "2026-11-03T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Erhöhte Schlüpf-XP/-Staub (ab Rang 75)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust2xhatch.png",
-    "eventName": "GO Pass: October",
-    "eventSlug": "go-pass-october-2026",
-    "start": "2026-10-06T10:00:00",
-    "end": "2026-11-03T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Geschenke: 40/Tag öffnen, +10 Taschenplätze (ab Rang 25)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
-    "eventName": "GO Pass: October",
-    "eventSlug": "go-pass-october-2026",
-    "start": "2026-10-06T10:00:00",
-    "end": "2026-11-03T10:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Geschenke: 50/Tag öffnen, +20 Taschenplätze (ab Rang 25, Deluxe)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
-    "eventName": "GO Pass: October",
-    "eventSlug": "go-pass-october-2026",
-    "start": "2026-10-06T10:00:00",
-    "end": "2026-11-03T10:00:00",
-    "rotating": false
-  },
-  {
     "text": "2× Fang-Bonbons",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
     "eventName": "Pokémon GO Halloween 2026 Part II",
@@ -681,6 +627,51 @@
     "eventSlug": "minior-showers-leonids-2026",
     "start": "2026-11-14T17:00:00",
     "end": "2026-11-19T23:59:00",
+    "rotating": false
+  },
+  {
+    "text": "Chance to receive Max Particles when catching event-themed Pokémon in the wild or after Max Battles",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "More Power Spots than usual will be active",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/powerspot.png",
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Fang-Sternenstaub (ab Rang 15)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust2x.png",
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "1/2 Candy and Stardust cost to activate the Dynamax Cannon Adventure Effect (ab Rang 35)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Additional Candy and Candy XL from Max Battles (ab Rang 55)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00",
     "rotating": false
   },
   {

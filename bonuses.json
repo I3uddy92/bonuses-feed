@@ -1,41 +1,5 @@
 [
   {
-    "text": "2× Fang-Bonbons",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
-    "eventName": "Pokémon GO Halloween 2026 Part II",
-    "eventSlug": "halloween-2026-part-2",
-    "start": "2026-11-01T10:00:00",
-    "end": "2026-11-05T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "3× Fang-Bonbons (Deluxe)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
-    "eventName": "Pokémon GO Halloween 2026 Part II",
-    "eventSlug": "halloween-2026-part-2",
-    "start": "2026-11-01T10:00:00",
-    "end": "2026-11-05T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "2× Fang-Sternenstaub",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
-    "eventName": "Pokémon GO Halloween 2026 Part II",
-    "eventSlug": "halloween-2026-part-2",
-    "start": "2026-11-01T10:00:00",
-    "end": "2026-11-05T20:00:00",
-    "rotating": false
-  },
-  {
-    "text": "3× Fang-Sternenstaub (Deluxe)",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
-    "eventName": "Pokémon GO Halloween 2026 Part II",
-    "eventSlug": "halloween-2026-part-2",
-    "start": "2026-11-01T10:00:00",
-    "end": "2026-11-05T20:00:00",
-    "rotating": false
-  },
-  {
     "text": "Increased chance to encounter Shiny Pokémon",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
     "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
@@ -627,6 +591,105 @@
     "eventSlug": "minior-showers-leonids-2026",
     "start": "2026-11-14T17:00:00",
     "end": "2026-11-19T23:59:00",
+    "rotating": false
+  },
+  {
+    "text": "Power Spots will refresh more frequently",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/powerspot.png",
+    "eventName": "Eternamax Eternatus Returns",
+    "eventSlug": "eternamax-eternatus-max-battles-2026",
+    "start": "2026-11-21T11:00:00",
+    "end": "2026-11-21T14:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Max Particle collection limit increased to 2,400",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticles.png",
+    "eventName": "Eternamax Eternatus Returns",
+    "eventSlug": "eternamax-eternatus-max-battles-2026",
+    "start": "2026-11-21T11:00:00",
+    "end": "2026-11-21T14:00:00",
+    "rotating": false
+  },
+  {
+    "text": "8× Max Particles from Power Spots",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
+    "eventName": "Eternamax Eternatus Returns",
+    "eventSlug": "eternamax-eternatus-max-battles-2026",
+    "start": "2026-11-21T11:00:00",
+    "end": "2026-11-21T14:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased Spawns",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/wildgrass.png",
+    "eventName": "Pawniard Community Day",
+    "eventSlug": "november-communityday2026",
+    "start": "2026-11-21T14:00:00",
+    "end": "2026-11-21T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "1/4 Egg Hatch Distance",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/eggdistance.png",
+    "eventName": "Pawniard Community Day",
+    "eventSlug": "november-communityday2026",
+    "start": "2026-11-21T14:00:00",
+    "end": "2026-11-21T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "3-hour Incense",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/incense.png",
+    "eventName": "Pawniard Community Day",
+    "eventSlug": "november-communityday2026",
+    "start": "2026-11-21T14:00:00",
+    "end": "2026-11-21T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "1-hour Lures",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/lure.png",
+    "eventName": "Pawniard Community Day",
+    "eventSlug": "november-communityday2026",
+    "start": "2026-11-21T14:00:00",
+    "end": "2026-11-21T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Fang-Bonbons",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
+    "eventName": "Pawniard Community Day",
+    "eventSlug": "november-communityday2026",
+    "start": "2026-11-21T14:00:00",
+    "end": "2026-11-21T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2x Chance for Trainers level 31 and up to receive Candy XL from catching Pokémon",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
+    "eventName": "Pawniard Community Day",
+    "eventSlug": "november-communityday2026",
+    "start": "2026-11-21T14:00:00",
+    "end": "2026-11-21T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "One additional Special Trade can be made for a maximum of two for the day",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/trade.png",
+    "eventName": "Pawniard Community Day",
+    "eventSlug": "november-communityday2026",
+    "start": "2026-11-21T14:00:00",
+    "end": "2026-11-21T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Trades made will require 50% less Stardust",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust2x.png",
+    "eventName": "Pawniard Community Day",
+    "eventSlug": "november-communityday2026",
+    "start": "2026-11-21T14:00:00",
+    "end": "2026-11-21T17:00:00",
     "rotating": false
   },
   {

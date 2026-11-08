@@ -1,151 +1,7 @@
 [
   {
     "text": "Increased chance to encounter Shiny Pokémon",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "1/2 Hatch Distance for Eggs placed in Incubators during the event",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/eggdistance.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Up to 10 free Raid Passes per day from Gyms",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/freeraidpass.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "3/4 Max Particle cost for unlocking and powering up Max Moves",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Daily Max Particle collection limit increased to 8,000",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Increased Max Particles from Power Spots and exploration",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Increased chance of 10 km Eggs from PokéStops and Gyms",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/egg10km.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Lure Modules last for 2 hours",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/luresall.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Incense, excluding Daily Adventure Incense, lasts for 2 hours",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/incense.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "2× Fang-Bonbons",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Party Play lasts for 8 hours",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Chance to encounter mighty Pokémon on Routes",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "3 GO Snapshot surprise encounters per day",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/camera.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Chance to get GO Safari Balls from PokéStops and Gyms",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/gosafariball.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Up to 6 Special Trades per day",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/trade.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "1/2 Stardust cost for trades",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
-    "eventName": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-    "eventSlug": "pokemon-go-wild-area-2026-sendai-japan",
-    "start": "2026-11-06T01:00:00",
-    "end": "2026-11-08T09:00:00",
-    "rotating": false
-  },
-  {
-    "text": "Increased chance to encounter Shiny Pokémon",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/shiny.png?v=1",
     "eventName": "Pokémon GO Wild Area 2026: Mexico City",
     "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
     "start": "2026-11-06T16:00:00",
@@ -235,7 +91,7 @@
   },
   {
     "text": "Party Play lasts for 8 hours",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/partyplay.png?v=1",
     "eventName": "Pokémon GO Wild Area 2026: Mexico City",
     "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
     "start": "2026-11-06T16:00:00",
@@ -244,7 +100,7 @@
   },
   {
     "text": "Chance to encounter mighty Pokémon on Routes",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/route.png?v=1",
     "eventName": "Pokémon GO Wild Area 2026: Mexico City",
     "eventSlug": "pokemon-go-wild-area-2026-mexico-city",
     "start": "2026-11-06T16:00:00",
@@ -299,7 +155,7 @@
   {
     "text": "Remote Raid limit increased to 30 from Monday, November 9, to Friday, November 13, 2026",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
-    "eventName": "Into the Wild",
+    "eventName": "Into the Wild 2026",
     "eventSlug": "into-the-wild-2026",
     "start": "2026-11-09T10:00:00",
     "end": "2026-11-13T20:00:00",
@@ -308,7 +164,7 @@
   {
     "text": "No Remote Raid limit from Saturday, November 14, to Sunday, November 15, 2026",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
-    "eventName": "Into the Wild",
+    "eventName": "Into the Wild 2026",
     "eventSlug": "into-the-wild-2026",
     "start": "2026-11-09T10:00:00",
     "end": "2026-11-13T20:00:00",
@@ -316,8 +172,8 @@
   },
   {
     "text": "Chance to encounter Shiny Gimmighoul when using a Coin Bag",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
-    "eventName": "Into the Wild",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/shiny.png?v=1",
+    "eventName": "Into the Wild 2026",
     "eventSlug": "into-the-wild-2026",
     "start": "2026-11-09T10:00:00",
     "end": "2026-11-13T20:00:00",
@@ -326,7 +182,7 @@
   {
     "text": "Chance to encounter Shiny Meltan when opening the Mystery Box",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/mysterybox.png",
-    "eventName": "Into the Wild",
+    "eventName": "Into the Wild 2026",
     "eventSlug": "into-the-wild-2026",
     "start": "2026-11-09T10:00:00",
     "end": "2026-11-13T20:00:00",
@@ -335,7 +191,7 @@
   {
     "text": "Reduced wait time before you can open the Mystery Box again",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/mysterybox.png",
-    "eventName": "Into the Wild",
+    "eventName": "Into the Wild 2026",
     "eventSlug": "into-the-wild-2026",
     "start": "2026-11-09T10:00:00",
     "end": "2026-11-13T20:00:00",
@@ -344,7 +200,7 @@
   {
     "text": "Trainers can receive special event stickers from PokéStops and Gifts",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendgift.png",
-    "eventName": "Into the Wild",
+    "eventName": "Into the Wild 2026",
     "eventSlug": "into-the-wild-2026",
     "start": "2026-11-09T10:00:00",
     "end": "2026-11-13T20:00:00",
@@ -353,7 +209,7 @@
   {
     "text": "1/2 Hatch Distance for Eggs placed in Incubators during the event (ab Rang 25)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/eggdistance.png",
-    "eventName": "Into the Wild",
+    "eventName": "Into the Wild 2026",
     "eventSlug": "into-the-wild-2026",
     "start": "2026-11-09T10:00:00",
     "end": "2026-11-13T20:00:00",
@@ -362,7 +218,7 @@
   {
     "text": "5,000 additional XP from completed raids (ab Rang 1, Deluxe)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
-    "eventName": "Into the Wild",
+    "eventName": "Into the Wild 2026",
     "eventSlug": "into-the-wild-2026",
     "start": "2026-11-09T10:00:00",
     "end": "2026-11-13T20:00:00",
@@ -371,7 +227,7 @@
   {
     "text": "5,000 additional XP from completed Max Battles (ab Rang 1, Deluxe)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
-    "eventName": "Into the Wild",
+    "eventName": "Into the Wild 2026",
     "eventSlug": "into-the-wild-2026",
     "start": "2026-11-09T10:00:00",
     "end": "2026-11-13T20:00:00",
@@ -380,7 +236,7 @@
   {
     "text": "3/4 Max Particle cost for unlocking and powering up Max Moves (ab Rang 2, Deluxe)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/maxparticle.png",
-    "eventName": "Into the Wild",
+    "eventName": "Into the Wild 2026",
     "eventSlug": "into-the-wild-2026",
     "start": "2026-11-09T10:00:00",
     "end": "2026-11-13T20:00:00",
@@ -389,7 +245,7 @@
   {
     "text": "+1 Candy from raids (ab Rang 3, Deluxe)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
-    "eventName": "Into the Wild",
+    "eventName": "Into the Wild 2026",
     "eventSlug": "into-the-wild-2026",
     "start": "2026-11-09T10:00:00",
     "end": "2026-11-13T20:00:00",
@@ -398,7 +254,7 @@
   {
     "text": "+1 Candy XL from raids (Trainers level 31+) (ab Rang 3, Deluxe)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
-    "eventName": "Into the Wild",
+    "eventName": "Into the Wild 2026",
     "eventSlug": "into-the-wild-2026",
     "start": "2026-11-09T10:00:00",
     "end": "2026-11-13T20:00:00",
@@ -407,7 +263,7 @@
   {
     "text": "+1 Candy from Max Battles (ab Rang 3, Deluxe)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candy.png",
-    "eventName": "Into the Wild",
+    "eventName": "Into the Wild 2026",
     "eventSlug": "into-the-wild-2026",
     "start": "2026-11-09T10:00:00",
     "end": "2026-11-13T20:00:00",
@@ -416,7 +272,7 @@
   {
     "text": "+1 Candy XL from Max Battles (Trainers level 31+) (ab Rang 3, Deluxe)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
-    "eventName": "Into the Wild",
+    "eventName": "Into the Wild 2026",
     "eventSlug": "into-the-wild-2026",
     "start": "2026-11-09T10:00:00",
     "end": "2026-11-13T20:00:00",
@@ -460,7 +316,7 @@
   },
   {
     "text": "Party Play lasts for 8 hours",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/partyplay.png?v=1",
     "eventName": "Pokémon GO Wild Area 2026: Global",
     "eventSlug": "pokemon-go-wild-area-2026-global",
     "start": "2026-11-14T10:00:00",
@@ -469,7 +325,7 @@
   },
   {
     "text": "Chance to encounter mighty Pokémon on Routes",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/route.png?v=1",
     "eventName": "Pokémon GO Wild Area 2026: Global",
     "eventSlug": "pokemon-go-wild-area-2026-global",
     "start": "2026-11-14T10:00:00",
@@ -478,7 +334,7 @@
   },
   {
     "text": "Increased chance to encounter Shiny Pokémon",
-    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/shiny.png?v=1",
     "eventName": "Pokémon GO Wild Area 2026: Global",
     "eventSlug": "pokemon-go-wild-area-2026-global",
     "start": "2026-11-14T10:00:00",

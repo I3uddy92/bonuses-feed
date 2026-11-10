@@ -459,6 +459,51 @@
     "rotating": false
   },
   {
+    "text": "Increased chance to encounter Shiny Staryu and Shiny Elgyem",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/wildgrass.png",
+    "eventName": "Twilight Wishes",
+    "eventSlug": "twilight-wishes-2026",
+    "start": "2026-11-24T10:00:00",
+    "end": "2026-11-30T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance to get Lucky Pokémon in trades",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/trade.png",
+    "eventName": "Twilight Wishes",
+    "eventSlug": "twilight-wishes-2026",
+    "start": "2026-11-24T10:00:00",
+    "end": "2026-11-30T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance to become Lucky Friends",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/friendship.png",
+    "eventName": "Twilight Wishes",
+    "eventSlug": "twilight-wishes-2026",
+    "start": "2026-11-24T10:00:00",
+    "end": "2026-11-30T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "2× Fang-Sternenstaub",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Twilight Wishes",
+    "eventSlug": "twilight-wishes-2026",
+    "start": "2026-11-24T10:00:00",
+    "end": "2026-11-30T20:00:00",
+    "rotating": false
+  },
+  {
+    "text": "3× Fang-Sternenstaub (Deluxe)",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Twilight Wishes",
+    "eventSlug": "twilight-wishes-2026",
+    "start": "2026-11-24T10:00:00",
+    "end": "2026-11-30T20:00:00",
+    "rotating": false
+  },
+  {
     "text": "One guaranteed Candy XL when trading Pokémon for Trainers level 31 and above (ab Rang 1)",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png",
     "eventName": "Twilight Trails",

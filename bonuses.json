@@ -324,6 +324,78 @@
     "rotating": false
   },
   {
+    "text": "Remote Raid limit increased to 20 from Friday, November 27, at 5:00 p.m. to Saturday, November 28, 2026, at 8:00 p.m. PST",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/remoteraidpass.png",
+    "eventName": "Clefable Super Mega Raid Day",
+    "eventSlug": "clefable-super-mega-raid-day-2026",
+    "start": "2026-11-28T14:00:00",
+    "end": "2026-11-28T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/freeraidpass.png",
+    "eventName": "Clefable Super Mega Raid Day",
+    "eventSlug": "clefable-super-mega-raid-day-2026",
+    "start": "2026-11-28T14:00:00",
+    "end": "2026-11-28T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Clefable caught from Super Mega Raids will have Mega Level 1 unlocked",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/megaevolution.png",
+    "eventName": "Clefable Super Mega Raid Day",
+    "eventSlug": "clefable-super-mega-raid-day-2026",
+    "start": "2026-11-28T14:00:00",
+    "end": "2026-11-28T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance of encountering Shiny Clefable from Super Mega Raids",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/none.png",
+    "eventName": "Clefable Super Mega Raid Day",
+    "eventSlug": "clefable-super-mega-raid-day-2026",
+    "start": "2026-11-28T14:00:00",
+    "end": "2026-11-28T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/freeraidpass.png",
+    "eventName": "Clefable Super Mega Raid Day",
+    "eventSlug": "clefable-super-mega-raid-day-2026",
+    "start": "2026-11-28T14:00:00",
+    "end": "2026-11-28T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "Increased chance to get Rare Candy XL from Raid Battles",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/rarecandyxl.png",
+    "eventName": "Clefable Super Mega Raid Day",
+    "eventSlug": "clefable-super-mega-raid-day-2026",
+    "start": "2026-11-28T14:00:00",
+    "end": "2026-11-28T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "An additional 5,000 XP from Super Mega Raid Battles",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/xp.png",
+    "eventName": "Clefable Super Mega Raid Day",
+    "eventSlug": "clefable-super-mega-raid-day-2026",
+    "start": "2026-11-28T14:00:00",
+    "end": "2026-11-28T17:00:00",
+    "rotating": false
+  },
+  {
+    "text": "An additional 5,000 Stardust from Super Mega Raid Battles",
+    "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust.png",
+    "eventName": "Clefable Super Mega Raid Day",
+    "eventSlug": "clefable-super-mega-raid-day-2026",
+    "start": "2026-11-28T14:00:00",
+    "end": "2026-11-28T17:00:00",
+    "rotating": false
+  },
+  {
     "text": "Increased chance to encounter Shiny Staryu and Shiny Elgyem",
     "image": "https://cdn.leekduck.com/assets/img/events/bonuses/wildgrass.png",
     "eventName": "Twilight Wishes",

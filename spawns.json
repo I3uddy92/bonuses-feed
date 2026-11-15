@@ -657,6 +657,528 @@
     "end": "2026-11-21T17:00:00"
   },
   {
+    "name": "Bulbasaur",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Charmander",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Squirtle",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Caterpie",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Pikachu",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Growlithe",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_058_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Abra",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Machop",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_066_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Gastly",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Krabby",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_098_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Hitmonlee",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_106_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Hitmonchan",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_107_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Rhyhorn",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_111_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Chansey",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Electabuzz",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_125_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Magmar",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_126_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Magikarp",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Eevee",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Omanyte",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_138_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Kabuto",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_140_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Hoothoot",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Shuckle",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_213_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Sneasel",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_215_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Hitmontop",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_237_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Ralts",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Sableye",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Wailmer",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_320_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Trapinch",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_328_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Feebas",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_349_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Spheal",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_363_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Beldum",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Combee",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_415_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Pidove",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_519_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Roggenrola",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_524_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Woobat",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_527_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Drilbur",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Excadrill",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_530_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Cottonee",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_546_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Darumaka",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Trubbish",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_568_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Cryogonal",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_615_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Deino",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Inkay",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_686_00.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Bounsweet",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm761.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Passimian",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm766.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Drampa",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Grookey",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Scorbunny",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Sobble",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Skwovet",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm819.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Rookidee",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Wooloo",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm831.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Toxtricity (Amped Form)",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm849.fAMPED.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Toxtricity (Low Key Form)",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm849.fLOW_KEY.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Sizzlipede",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Hatenna",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm856.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Falinks",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
+    "name": "Duraludon",
+    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png",
+    "canBeShiny": true,
+    "eventName": "Dynamax Trails",
+    "eventSlug": "dynamax-trails-2026",
+    "start": "2026-11-16T10:00:00",
+    "end": "2026-11-23T20:00:00"
+  },
+  {
     "name": "Noibat",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
     "canBeShiny": true,

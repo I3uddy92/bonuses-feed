@@ -369,15 +369,6 @@
     "end": "2026-11-23T20:00:00"
   },
   {
-    "name": "Excadrill",
-    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_530_00.png",
-    "canBeShiny": true,
-    "eventName": "Dynamax Trails",
-    "eventSlug": "dynamax-trails-2026",
-    "start": "2026-11-16T10:00:00",
-    "end": "2026-11-23T20:00:00"
-  },
-  {
     "name": "Cottonee",
     "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_546_00.png",
     "canBeShiny": true,
